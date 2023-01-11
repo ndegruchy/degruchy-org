@@ -26,6 +26,63 @@
 			</h1>
 		</header>
 		<main id="content">
+			<article class="hentry h-entry" id="20230111-how-i-build-this-site">
+				<header>
+					<h2>
+						How I Build This Site
+						<a href="#20230111-how-i-build-this-site">&#x1F517;</a>
+					</h2>
+					<time datetime="2023-01-11T10:38:47-0500">10:38:47 on 2023-01-11</time>
+				</header>
+				<section>
+					<p>When I set up this site, I was iterating on a site infrastructure that I had done previously. A very simple setup of using <abbr title="Simple Storage Service">S3</abbr>‘s ’static site’ function to provide a front-end to a bucket. I would then use DNS to point to the endpoint S3 static hostname. This worked well, for a time. However, this was not as fast as it could be. Mainly, because every request would hit the East Coast bucket endpoint every time. There were no closer endpoints unless you manually set up another bucket with static site hosting in a different region. Boo 👎.</p>
+					<h2>CloudFront</h2>
+					<p>Amazon, of course, has a solution for this. Allow their caching front end CloudFront to handle the requests. This will put your content into geographically closer endpoints on their network. If the content isn’t already there, it’ll be fetched from the source bucket automatically. Not only does this make connectivity faster for your users, but allows you to have only one end point where your source files are. Each distribution point getting updated as needed.</p>
+					<h2>Building</h2>
+					<p>Making this all work with minimal hassle took some time to figure out how things work in <abbr title="Amazon Web Services">AWS</abbr>. It’s not <em>fully</em> automated, either. It’s comfortably, for me, automated so that the important parts that take the most time to do are done easily. It’s also flexible enough that you could substitute in a different system that you’d prefer to use (like Azure or Netlify or whatever).</p>
+					<h3>0. Content</h3>
+					<p>I presume that you have some content you’d like to publish. Be it a Single Page App, or a blog generated with one of those Static Site Generators. It could even be a single page blog like mine. It doesn’t really matter. You have a folder full of stuff you’d like to host.</p>
+					<p>I save mine in GitHub, so this prerequisite is to have Git available. Again, your choice. You can have content from where ever, even on something like DropBox. Whatever works for you</p>
+					<h3>1. Location</h3>
+					<p>I set up my site on AWS, so I’ll be talking about that. My system involves a single bucket where CloudFront is going to be getting its data from. I don’t do anything special to this bucket. Actually, that’s not <em>entirely</em> true. Later, I set up a user with permissions to access this bucket, but I’ve not set the public access or static site permissions on the bucket. Mostly, I’ve left it as-is. You can feel free to upload the content at this point.</p>
+					<h3>2. Caching</h3>
+					<p>CloudFront is next. Setting up a <em>distribution</em> is fairly straight-forward. You’ll want to choose the endpoints that matter to you. I’ve chosen North America and Europe. While I’m sure there are folks who would like to read my blog from elsewhere in the world. I’m not sure if it matters much. You can leave this option on “Use all edge locations”. You will be paying slightly more per request, but it likely doesn’t even matter unless you’re dealing with millions or billions of requests.</p>
+					<p>You can also set up the names you want the site to respond to. Make sure that you have any subdomains that you want to respond, as well. Things like <code>www.</code> is a subdomain that people forget. You can add it later, but it might mess up your certificate generation in the next part.</p>
+					<p>If you want an SSL-secured site, then you can have Amazon generate you a certificate automatically. I did, it’s cheap and simple and since I also use Route 53, it’s automatically setup and verified for me. If you have your own certificate, you can upload it from here, too.</p>
+					<p>Another bit of automation is that <a href="https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-access-to-amazon-s3/">you can set up an <abbr title="Origin Access Identity">OAI</abbr> for exclusive access</a> from CloudFront to the source bucket. While this requires a bit of juggling with the console (copy the rules from the distribution into the S3 bucket policies), it’s worth it. This means that you don’t have to expose the bucket to the world. Only CloudFront.</p>
+					<h4>On Redirection</h4>
+					<p>As an aside, there are methods to allow you to create URL redirects from within CloudFront. It’s not the easiest thing to implement, but it does work. Basically, you need to set up a CloudFront <em>function</em> that will be used to inspect the requests as they come in and redirect as needed. Here’s a sample of mine:</p>
+					<pre><code>function handler(event) {
+    const request = event.request;
+
+    switch (request.uri)
+    {
+        case request.uri.startsWith(&#39;/wishlist&#39;):
+            // redirect to wishlist
+            return {
+                statusCode: 308,
+                statusDescription: &#39;Permanent Redirect&#39;,
+                headers: {
+                    &quot;location&quot;: {
+                        &quot;value&quot;: &quot;https://mywishlist.online/w/75dd8k/nathans-wishlist&quot;
+                    }
+                }
+            };
+    }
+
+    // Last resort, just return the URL
+    return request;
+}</code></pre>
+					<p>This code looks at the request and makes a decision based on if the URL <em>request</em> starts with <code>/wishlist</code>. If it does, then redirect it to a new URL of my choice. You can get pretty crazy here, but keep in mind that they will charge you extra depending on how much time this code takes to execute.</p>
+					<h3>3. Glue</h3>
+					<p>Finally, I use a <code>Makefile</code> to actually upload the files to AWS, and then <em>invalidate</em> the current CloudFront cache. This ensures that CloudFront endpoints have the latest content available to it. Generally, this looks like two commands to the <code>awscli</code> tool:</p>
+<pre><code>aws s3 sync . s3://your-bucket-name --quiet --exclude &quot;.git**&quot; --exclude ...
+aws cloudfront create-invalidation --distribution-id YOURCLOUDFRONTID --paths=/\*</code></pre>
+					<h2>Fin</h2>
+					<p>There’s not a lot going on with the mechanics of the site. Mostly it’s just the setup of the infrastructure in AWS, first, then pushing the content up and making sure that things are fresh for users.</p>
+					<p>You <a href="https://github.com/degruchy-family/degruchy.org">can see the code I use on GitHub</a>.</p>
+				</section>
+			</article>
 			<article class="hentry h-entry" id="20230110-randall">
 				<header>
 					<h2>

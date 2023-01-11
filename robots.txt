@@ -1,3 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: /api
+Disallow: /blog
+Disallow: /wp-json
+Disallow: /nodeinfo
 Crawl-delay: 86400000

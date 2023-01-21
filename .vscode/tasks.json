@@ -4,28 +4,19 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Upload files",
-			"type": "shell",
-			"windows": {
-				"command": "D:\\tools\\rsync\\rclone.exe sync . d-o:/mnt/HC_Volume_15221660/sites/degruchy.org/ --exclude \".git**\" --exclude \".vscode**\" --exclude \"*.code-workspace\" --exclude .editorconfig --exclude Makefile --delete-excluded --progress --auto-confirm"
-			},
-			"linux": {
-				"command": "/usr/bin/aws s3 sync . s3://degruchy-website --quiet --exclude \".git**\" --exclude \".vscode**\" --exclude \"*.code-workspace\" --exclude \".editorconfig\" --exclude \"Makefile\""
-			}
-		},
-		{
-			"label": "Invalidate CloudFront",
-			"type": "shell",
-			"linux": {
-				"command": "/usr/bin/aws cloudfront create-invalidation --distribution-id ${env:CLOUDFRONT_ID} --paths=/*"
-			}
+			"label": "Sync Site",
+			"command": [
+				"/usr/bin/make"
+			],
+			"args": [
+				"-k"
+			]
 		},
 		{
 			"label": "All Tasks",
 			"dependsOrder": "sequence",
 			"dependsOn": [
-				"Upload files",
-				"Invalidate CloudFront"
+				"Sync Site"
 			],
 			"problemMatcher": [],
 			"group": {

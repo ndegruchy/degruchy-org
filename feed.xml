@@ -15,6 +15,18 @@
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
 	<entry>
+		<title>Steam Deck: What a Delight to Behold</title>
+		<id>https://degruchy.org/#20230123-steamdeck</id>
+		<link rel="alternate" href="https://degruchy.org/#20230123-steamdeck" />
+		<author>
+			<name>Nathan DeGruchy</name>
+			<email>nathan@degurchy.org</email>
+		</author>
+		<updated>2023-01-23T13:05:10-04:00</updated>
+		<published>2023-01-23T13:05:10-04:00</published>
+		<content />
+	</entry>
+	<entry>
 		<title>How I Build This Site</title>
 		<id>https://degruchy.org/#20230111-how-i-build-this-site</id>
 		<link rel="alternate" href="https://degruchy.org/#20230111-how-i-build-this-site" />

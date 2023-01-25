@@ -15,6 +15,18 @@
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
 	<entry>
+		<title>007: Goldeneye</title>
+		<id>https://degruchy.org/#20230125-007-goldeneye</id>
+		<link rel="alternate" href="https://degruchy.org/#20230125-007-goldeneye" />
+		<author>
+			<name>Nathan DeGruchy</name>
+			<email>nathan@degurchy.org</email>
+		</author>
+		<updated>2023-01-25T09:40:27-04:00</updated>
+		<published>2023-01-25T09:40:27-04:00</published>
+		<content />
+	</entry>
+	<entry>
 		<title>Steam Deck: What a Delight to Behold</title>
 		<id>https://degruchy.org/#20230123-steamdeck</id>
 		<link rel="alternate" href="https://degruchy.org/#20230123-steamdeck" />

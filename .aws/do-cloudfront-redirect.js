@@ -1,24 +1,29 @@
-/**
- * Handles the incoming requests to AWS Cloudfront
- * @param event The event that is coming in
- * @returns request The maybe modified request
- */
-function handler(event) {
-	const request = event.request;
+	/**
+	* Handles the incoming requests to AWS Cloudfront
+	* @param event The event that is coming in
+	* @returns request The maybe modified request
+	*/
+	function handler(event) {
+		var request = event.request;
+		var headers = request.headers;
 
-	switch (request.uri)
-	{
-		case request.uri.startsWith('/api'):
-		case request.uri.startsWith('/blog'):
-		case request.uri.startsWith('/wp-json'):
-		case request.uri.startsWith('/nodeinfo'):
-			// Please stop trying to visit these pages
+		if(
+			(request.uri.startsWith('/api')) ||
+			(request.uri.startsWith('/blog')) ||
+			(request.uri.startsWith('/wp-json')) ||
+			(request.uri.startsWith('/nodeinfo'))
+		)
+		{
+			// Stupid old page request and old ActivityPub requests
 			return {
 				statusCode: 410,
 				statusDescription: 'Gone'
 			};
-		case request.uri.startsWith('/wishlist'):
-			// redirect to wishlist
+		}
+
+		if((request.uri.startsWith('/wishlist')))
+		{
+			// Wishlist redirect
 			return {
 				statusCode: 308,
 				statusDescription: 'Permanent Redirect',
@@ -27,10 +32,16 @@ function handler(event) {
 						"value": "https://mywishlist.online/w/75dd8k/nathans-wishlist"
 					}
 				}
-			};
-		case request.uri.endsWith('/feed'):
-		case request.uri.endsWith('/feed/'):
-			// feed fixes
+			}
+		}
+
+		if(
+			(request.uri.endsWith('/feed')) ||
+			(request.uri.endsWith('/feed/'))
+		)
+		{
+			// This redirect is to help with users who may have had my feed from
+			// when I was using either WordPress or WriteFreely
 			return {
 				statusCode: 308,
 				statusDescription: "Permanent Redirect",
@@ -40,8 +51,8 @@ function handler(event) {
 					}
 				}
 			}
-	}
+		}
 
-	// Last resort, just return the URL
-	return request;
-}
+		// Last resort, just return the URL
+		return request;
+	}

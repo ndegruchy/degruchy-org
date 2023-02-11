@@ -3,7 +3,7 @@
 
 	<title>Verily at DeGruchy.org</title>
 	<link href="https://degruchy.org/" />
-	<updated>2023-02-08T14:24:02-0500</updated>
+	<updated>2023-02-10T22:45:29-0500</updated>
 	<author>
 		<name>Nathan DeGruchy</name>
 		<email>nathan@degruchy.org</email>
@@ -14,6 +14,18 @@
 	<icon>https://degruchy.org/assets/images/2020-minimal-avatar-50.webp</icon>
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
+	<entry>
+	  <title>The Amiga: Sadly Before My Time</title>
+	  <id>https://degruchy.org/#20230210-the-amiga-sadly-before-my-time</id>
+	  <link rel="alternate" href="https://degruchy.org/#20230210-the-amiga-sadly-before-my-time" />
+	  <author>
+		<name>Nathan DeGruchy</name>
+		<email>nathan@degruchy.org</email>
+	  </author>
+	  <updated>2023-02-10T22:45:10-0500</updated>
+	  <published>2023-02-10T22:45:10-0500</published>
+	  <content />
+	</entry>
 	<entry>
 	  <title>Oh How I Hate/Love the News</title>
 	  <id>https://degruchy.org/#20230208-oh-how-i-hate-love-the-news</id>

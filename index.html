@@ -2123,13 +2123,18 @@ set colored-stats On
 					<p>Today, I decided to try and build Emacs on my
 						own. On Debian, it's a pretty easy series of
 						steps:</p>
-					<p><code>apt install build-essential git</code></p>
-					<p><code>apt build-dep emacs-lucid</code></p>
-					<p><code>git clone --depth 1 --branch emacs-28 https://git.savannah.gnu.org/git/emacs.git</code></p>
-					<p><code>./autogen.sh</code></p>
-					<p><code>./configure --with-x-toolkit=no</code></p>
-					<p><code>make bootstrap</code></p>
-					<p><code>make install</code></p>
+					<pre>
+						<code>
+apt install build-essential git
+apt build-dep emacs-lucid
+git clone --depth 1 --branch emacs-28 https://git.savannah.gnu.org/git/emacs.git
+cd emacs
+./autogen.sh
+./configure --with-x-toolkit=no
+make bootstrap
+make install
+						</code>
+					</pre>
 					<p>This works well and builds a new(er) copy of
 						Emacs than Debian stable contains. While some of
 						my packages have reacted oddly to this, overall,

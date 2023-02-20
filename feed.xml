@@ -15,6 +15,18 @@
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
 	<entry>
+	  <title>Red Dead Redemption</title>
+	  <id>https://degruchy.org/#20230220-red-dead-redemption</id>
+	  <link rel="alternate" href="https://degruchy.org/#20230220-red-dead-redemption" />
+	  <author>
+		<name>Nathan DeGruchy</name>
+		<email>nathan@degruchy.org</email>
+	  </author>
+	  <updated>2023-02-20T14:08:39-0500</updated>
+	  <published>2023-02-20T14:08:39-0500</published>
+	  <content />
+	</entry>
+	<entry>
 	  <title>KevQ: Micro.Blog is Still Confusing</title>
 	  <id>https://degruchy.org/#20230216-kev-q-micro-blog-is-still-confusing</id>
 	  <link rel="alternate" href="https://degruchy.org/#20230216-kev-q-micro-blog-is-still-confusing" />

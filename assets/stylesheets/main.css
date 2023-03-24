@@ -7,11 +7,7 @@
  */
 :root
 {
-	--var-light-background: #FFFFFF;
-	--var-light-foreground: #000000;
-	--var-dark-background:  #1B2430;
-	--var-dark-foreground:  #D6D5A8;
-
+	color-scheme: light dark;
 	font-family: system-ui;
 	margin: 0;
 	padding: 0;
@@ -207,32 +203,4 @@ iframe
 	border: 1px solid black;
 	display: block;
 	width: 100%;
-}
-
-@media screen and (prefers-color-scheme: light)
-{
-	body,
-	footer #comments
-	{
-		background-color: var(--var-light-background);
-		color: var(--var-light-foreground);
-	}
-}
-
-@media screen and (prefers-color-scheme: dark)
-{
-	body
-	{
-		background-color: var(--var-dark-background);
-		color: var(--var-dark-foreground);
-	}
-
-	a
-	{
-		color: #51557E;
-	}
-	a:visited
-	{
-		color: #816797;
-	}
 }

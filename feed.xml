@@ -15,6 +15,18 @@
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
 	<entry>
+	  <title>Hacker Snooze</title>
+	  <id>https://degruchy.org/#20230425-hacker-snooze</id>
+	  <link rel="alternate" href="https://degruchy.org/#20230425-hacker-snooze" />
+	  <author>
+		<name>Nathan DeGruchy</name>
+		<email>nathan@degruchy.org</email>
+	  </author>
+	  <updated>2023-04-25T10:37:03-0400</updated>
+	  <published>2023-04-25T10:37:03-0400</published>
+	  <content />
+	</entry>
+	<entry>
 	  <title>What a Mess</title>
 	  <id>https://degruchy.org/#20230420-what-a-mess</id>
 	  <link rel="alternate" href="https://degruchy.org/#20230420-what-a-mess" />

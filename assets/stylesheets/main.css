@@ -13,6 +13,14 @@
 	padding: 0;
 }
 
+/* Reset box-sizing */
+*,
+*::before,
+*::after
+{
+	box-sizing: border-box;
+}
+
 pre
 {
 	padding: 0;
@@ -46,14 +54,6 @@ embed
 sup
 {
 	font-size: small;
-}
-
-/* Reset box-sizing */
-*,
-*::before,
-*::after
-{
-	box-sizing: border-box;
 }
 
 /**
@@ -114,12 +114,12 @@ article
 	border-top: 1px solid #CCC;
 }
 
+/* all articles -- except the first one */
 article:first-child
 {
 	border-top: 0;
 }
 
-/* all articles -- except the first one */
 article header
 {
 	margin-bottom: 1rem

@@ -15,6 +15,18 @@
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
 	<entry>
+		<title>Learning How to Date Better</title>
+		<id>https://degruchy.org/#20230612-learning-how-to-date-better</id>
+		<link rel="alternate" href="https://degruchy.org#20230612-learning-how-to-date-better" />
+		<author>
+			<name>Nathan DeGruchy</name>
+			<email>nathan@degruchy.org</email>
+		</author>
+		<updated>2023-06-12T16:41:48.913Z</updated>
+		<published>2023-06-12T16:41:48.913Z</published>
+		<content />
+	</entry>
+	<entry>
 		<title>Debian 12</title>
 		<id>https://degruchy.org/#20230612-debian-12</id>
 		<link rel="alternate" href="https://degruchy.org#20230612-debian-12" />

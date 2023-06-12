@@ -26,6 +26,53 @@
 			</h1>
 		</header>
 		<main id="content">
+			<article class="hentry h-entry" id="20230612-learning-how-to-date-better">
+				<header>
+					<h2>
+						Learning How to Date Better
+						<a href="#20230612-learning-how-to-date-better">&#x1F517;</a>
+					</h2>
+					<time datetime="2023-06-12T16:19:40.371Z">16:19 on 2023-06-12</time>
+				</header>
+				<section>
+					<p>I’ve been working on using <a
+					href="https://kate-editor.org/">the
+					Kate editor</a> now that proper git
+					support is available, and Debian stable
+					has those updates. One thing I noticed
+					when writing the previous article
+					is that when I inserted my article
+					snippet, some of the date formatting
+					was giving mostly incorrect formats
+					in the article slugs.  This was
+					due to some JavaScript(!!) not
+					doing the right math. My fault,
+					really. I learned, however, there
+					is an easier way of getting the ISO
+					8601 date and time formats I want
+					without having to split out items
+					from the <code>date</code> object:</p>
+
+
+<pre><code>function returnISODatePart() {
+    // whatever ...  return (new Date()).toISOString().slice(0, 10);
+}</code></pre>
+
+					<p>I slice the first 10 characters
+					from the string, because ISO 8601
+					will <em>always</em> be a fixed
+					length (at least as long as this
+					code will continue to be relevant),
+					so I can slice out the bits I
+					want. If I need the time, I can do
+					<code>..toISOString().slice(11,
+					16)</code> because the time part
+					is <em>always</em> going to be the
+					same length, due to zero-padding
+					numbers.</p> <p>I love that I can
+					do that. Standards are great.</p>
+				</section>
+			</article>
 			<article class="hentry h-entry" id="20230612-debian-12">
 				<header>
 					<h2>

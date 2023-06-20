@@ -26,6 +26,54 @@
 			</h1>
 		</header>
 		<main id="content">
+			<article id="20230620-a-little-chatgpt">
+				<header>
+					<h2>
+						A Little ChatGPT
+						<a href="#20230620-a-little-chatgpt">&#x1F517;</a>
+					</h2>
+					<time datetime="2023-06-20T13:45:33.987Z">13:45 on 2023-06-20</time>
+				</header>
+				<section>
+					<p>So, I'm not a big lover of the term
+					"AI", especially for what are basically
+					language systems. Yes, they're able to
+					respond "intellegently", however it
+					is far from what <em>AI</em> proper
+					should be able to do (like think and
+					act on it's own). <em>Anyway</em>,
+					I was having some trouble with Regular
+					Expressions in JavaScript. Normally I
+					would just puzzle it out, but regexp
+					is hard enough for machines to parse,
+					let alone mortal man. So, on a whim,
+					I decided to ask ChatGPT.</p>
+					<p>I asked the machine to generate a
+					function to strip everything but ASCII
+					text and spaces from a string. I was
+					then able to massage that to replace
+					spaces with <code>-</code> and I had
+					a nice "Dasherize" function that I
+					can now use to build article slugs
+					for this site! Yeah, not really an
+					amazing feat of engineering, but
+					something useful when your brain
+					doesn't want to work.</p>
+					<p>Here's the snippet, my edits included:</p>
+<code><pre>/**
+ * Dasherize
+ *
+ * Dasherize a string, built (in part) by ChatGPT
+ */
+function dasherize(string)
+{
+	return string.trim()
+			.toLowerCase()
+			.replace(/[^a-z0-9]/gi, "-")
+			.replace(/^-+|-+$/g, "");
+}</pre></code>
+				</section>
+			</article>
 			<article id="20230612-learning-how-to-date-better">
 				<header>
 					<h2>

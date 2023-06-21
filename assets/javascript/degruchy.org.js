@@ -13,7 +13,12 @@ function main() {
 	const eTimes = document.querySelectorAll("time");
 
 	// Start time ago
-	if (eTimes.length > 0)
+	if
+	(
+		eTimes.length > 0
+		&&
+		typeof timeago !== undefined // Guard against failed loading of timeago
+	)
 	{
 		timeago.render(eTimes);
 	}

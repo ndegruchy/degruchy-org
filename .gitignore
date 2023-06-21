@@ -3,3 +3,5 @@
 *.min.*
 !timeago.min.js
 *.code-workspace
+.vscode*
+*.kateproject

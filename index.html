@@ -26,6 +26,56 @@
 			</h1>
 		</header>
 		<main id="content">
+			<article id="20230626-image-optimization">
+				<header>
+					<h2>
+						Image Optimization
+						<a href="#20230626-image-optimization">&#x1F517;</a>
+					</h2>
+					<time datetime="2023-06-26T09:53:26-04:00">09:53 on 2023-06-26</time>
+				</header>
+				<section>
+					<p>Images on the web are a tricky subject. You often have to
+					account for different factors and trade offs in order for
+					widest compatibility and for network speed. This usually
+					means multiple formats and optimization passes that reduce
+					file size without harming (too much) the overall quality of
+					the image. You can also further optimize based on use in the
+					page. Things like thumbnails don't need high
+					quality/fidelity because they're usually small enough that
+					detail will be missed because the user simply can't see it.
+					There are also times when the image is only meant to be a
+					placeholder, for things like animated gifs or videos, a
+					'poster' is used to denote that there is a video here,
+					either while it's loading or awaiting playback.</p>
+					<p>It seems like optimization is a black art. There are some
+					tutorials online, and a fair number of services online that
+					will crush your image down while keeping it looking good.
+					For my own website, I no longer use a service, so I have to
+					do it myself.</p>
+					<p>The cornerstone of image manipulation is Imagemagick.
+					It's a command-line tool that supports a dizzying number of
+					formats and can manipulate images in even more ways. It's a
+					perfect tool to use to optimize images for the web. I've
+					taken to using it with the following strategy to crush
+					various images (posters and thumbnais) down to something a
+					bit more <em>speedy</em>.</p>
+<pre><code>
+convert original.jpg -sampling-factor 4:2:0 -define jpeg:size=128x128 -thumbnail '128x128^' -background white -gravity center -extent 128x128 -strip -colorspace RGB -quality 85 -interlace Plane -unsharp 0x.5 optimized.jpg
+</code></pre>
+					<p>Interestingly, I use two different strategies. One for
+					JPEG, because there are options that might not be available
+					for the different formats that I provide. So, I have the
+					above for JPEG, and the following for all other formats.
+					There might be better tweaks that I could add to further
+					crush images with special options for their particular
+					format. If anyone has any ideas or sources, <a
+					href="mailto:nathan@degruchy.org">drop me a line</a>.</p>
+<pre><code>
+convert original.jpg -thumbnail '128x128^' -background white -gravity center -extent 128x128 -strip -colorspace RGB -quality 85 -interlace Plane -unsharp 0x.5 optimized.webp
+</code></pre>
+				</section>
+			</article>
 			<article id="20230626-the-one-ring">
 				<header>
 					<h2>

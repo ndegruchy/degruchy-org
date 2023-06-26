@@ -9,7 +9,8 @@
  * @description The function that gets triggered once the page loads
  * @returns bool - True on success, false on failure
  */
-function main() {
+function main()
+{
 	const eTimes = document.querySelectorAll("time");
 
 	// Start time ago

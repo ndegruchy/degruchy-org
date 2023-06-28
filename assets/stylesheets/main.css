@@ -43,6 +43,7 @@ pre code
 	min-width: 100px;
 	overflow-x: scroll;
 	padding: 0;
+	scrollbar-gutter: stable;
 	white-space: pre;
 }
 

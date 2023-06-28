@@ -105,7 +105,11 @@
 					various images (posters and thumbnais) down to something a
 					bit more <em>speedy</em>.</p>
 <pre><code>
-convert original.jpg -sampling-factor 4:2:0 -define jpeg:size=128x128 -thumbnail '128x128^' -background white -gravity center -extent 128x128 -strip -colorspace RGB -quality 85 -interlace Plane -unsharp 0x.5 optimized.jpg
+convert original.jpg -sampling-factor 4:2:0\
+	-define jpeg:size=128x128 -thumbnail '128x128^'\
+	-background white -gravity center -extent 128x128\
+	-strip -colorspace RGB -quality 85 -interlace Plane\
+	-unsharp 0x.5 optimized.jpg
 </code></pre>
 					<p>Interestingly, I use two different strategies. One for
 					JPEG, because there are options that might not be available
@@ -116,7 +120,10 @@ convert original.jpg -sampling-factor 4:2:0 -define jpeg:size=128x128 -thumbnail
 					format. If anyone has any ideas or sources, <a
 					href="mailto:nathan@degruchy.org">drop me a line</a>.</p>
 <pre><code>
-convert original.jpg -thumbnail '128x128^' -background white -gravity center -extent 128x128 -strip -colorspace RGB -quality 85 -interlace Plane -unsharp 0x.5 optimized.webp
+convert original.jpg -thumbnail '128x128^'\
+	-background white -gravity center\
+	-extent 128x128 -strip -colorspace RGB\
+	-quality 85 -interlace Plane -unsharp 0x.5 optimized.webp
 </code></pre>
 				</section>
 			</article>

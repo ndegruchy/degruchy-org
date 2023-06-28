@@ -3,7 +3,7 @@
 
 	<title>Verily at DeGruchy.org</title>
 	<link href="https://degruchy.org/" />
-	<updated>2023-06-26T14:06:27Z</updated>
+	<updated>2023-06-28T19:52:56Z</updated>
 	<author>
 		<name>Nathan DeGruchy</name>
 		<email>nathan@degruchy.org</email>
@@ -14,6 +14,17 @@
 	<icon>https://degruchy.org/assets/images/2020-minimal-avatar-50.webp</icon>
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
+	<entry>
+		<title>Don't Fear the Reaper</title>
+		<link rel="alternative" href="https://degruchy.org/#20230628-dont-fear-the-reaper" />
+		<author>
+			<name>Nathan DeGruchy</name>
+			<email>nathan@degruchy.org</email>
+		</author>
+		<updated>2023-06-28T15:52:27-04:00</updated>
+		<published>2023-06-28T15:52:27-04:00</published>
+		<content />
+	</entry>
 	<entry>
 		<title>Image Optimization</title>
 		<link rel="alternative" href="https://degruchy.org/#20230626-image-optimization" />

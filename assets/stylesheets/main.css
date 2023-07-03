@@ -171,9 +171,18 @@ article header a.featured
 img,
 video
 {
-	max-width: 100%;
-	height: auto;
+	border-color: transparent;
 	border-radius: 5px;
+	border-style: solid;
+	border-width: 3px;
+	height: auto;
+	max-width: 100%;
+}
+
+img:hover,
+video:hover
+{
+	border-color: #CCC;
 }
 
 figure

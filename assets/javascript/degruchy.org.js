@@ -11,7 +11,7 @@
  */
 function main()
 {
-	const eTimes = document.querySelectorAll("time");
+	const eTimes = document.querySelectorAll("heading > time");
 
 	// Start time ago
 	if

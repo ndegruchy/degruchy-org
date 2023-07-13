@@ -93,20 +93,16 @@ body>*
 	grid-column: 2;
 }
 
-/**
- * Page header
- * I use a webp here, because honestly, it's so well supported now,
- * and the transfer savings is high enough that if you don't support it
- * I don't even know how you run on the web...
- */
-body>header h1
+body>header h1 a
 {
-	background-image: url('/assets/images/2020-minimal-avatar-50.webp');
-	background-position: top center;
-	background-repeat: no-repeat;
-	line-height: 90px;
-	padding-top: 55px;
+	display: block;
 	text-align: center;
+}
+body>header h1 picture img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /**

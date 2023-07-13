@@ -15,6 +15,18 @@
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
 	<entry>
+		<title>Pardon the Interruption</title>
+		<id>https://degruchy.org/#20230713-pardon-the-interruption</id>
+		<link rel="alternate" href="https://degruchy.org#20230713-pardon-the-interruption" />
+		<author>
+			<name>Nathan DeGruchy</name>
+			<email>nathan@degruchy.org</email>
+		</author>
+		<updated>2023-07-13T14:08:50.666Z</updated>
+		<published>2023-07-13T14:08:50.666Z</published>
+		<content />
+	</entry>
+	<entry>
 	  <title>Simple Unix Chat</title>
 	  <id>https://degruchy.org/#20230706-simple-unix-chat</id>
 	  <link rel="alternate" href="https://degruchy.org/#20230706-simple-unix-chat" />

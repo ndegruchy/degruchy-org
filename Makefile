@@ -1,4 +1,4 @@
-all: upload set-meta invalidate
+all: upload set-meta invalidate finish
 
 upload :
 	aws s3 sync $(shell pwd) s3://degruchy-org --quiet --exclude ".git**" --exclude ".aws**" --exclude ".vscode**" --exclude "*.code-workspace" --exclude ".idea**" --exclude ".editorconfig" --exclude "Makefile" --exclude ".kateproject"
@@ -17,3 +17,6 @@ set-meta:
 
 invalidate:
 	aws cloudfront create-invalidation --distribution-id $(CLOUDFRONT_ID) --paths=/\* --no-cli-pager
+
+finish:
+	notify-send --app-name="Emacs" --urgency=low --expire-time=3600 --icon=emacs --category=job --wait "Website Update Complete."

@@ -3,7 +3,7 @@
 
 	<title>Verily at DeGruchy.org</title>
 	<link href="https://degruchy.org/" />
-	<updated>2023-07-17T09:38:08-0400</updated>
+	<updated>2023-07-19T13:57:52-0400</updated>
 	<author>
 		<name>Nathan DeGruchy</name>
 		<email>nathan@degruchy.org</email>
@@ -14,6 +14,18 @@
 	<icon>https://degruchy.org/assets/images/2020-minimal-avatar-50.webp</icon>
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
+	<entry>
+	  <title>Overwatch 2 Coming to Steam</title>
+	  <id>https://degruchy.org/#20230719-overwatch-2-coming-to-steam</id>
+	  <link rel="alternate" href="https://degruchy.org/#20230719-overwatch-2-coming-to-steam" />
+	  <author>
+		<name>Nathan DeGruchy</name>
+		<email>nathan@degruchy.org</email>
+	  </author>
+	  <updated>2023-07-19T13:57:40-0400</updated>
+	  <published>2023-07-19T13:57:40-0400</published>
+	  <content />
+	</entry>
 	<entry>
 	  <title>When You Have a Hunting Horn Main On Your Team</title>
 	  <id>https://degruchy.org/#20230717-when-you-have-a-hunting-horn-main-on-your-team</id>

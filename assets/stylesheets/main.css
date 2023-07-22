@@ -111,6 +111,7 @@ body>header nav ul
 	column-gap: 1rem;
 	display: flex;
 	flex-direction: row;
+	flex-wrap: column;
 	justify-content: space-around
 }
 

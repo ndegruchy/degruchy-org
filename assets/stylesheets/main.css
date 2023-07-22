@@ -105,6 +105,20 @@ body>header h1 picture img
 	margin-right: auto;
 }
 
+body>header nav ul
+{
+	align-content: center;
+	column-gap: 1rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around
+}
+
+body>header nav ul li
+{
+	list-style-type: none;
+}
+
 /**
  * Articles
  */

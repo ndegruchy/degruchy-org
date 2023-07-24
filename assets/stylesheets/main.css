@@ -117,14 +117,6 @@ body>header nav ul
 	padding: 0;
 }
 
-@media only screen and (max-device-width: 40em)
-{
-	body>header nav ul
-	{
-		flex-direction: column;
-		text-align: center;
-	}
-}
 
 body>header nav ul li
 {
@@ -134,7 +126,7 @@ body>header nav ul li
 body>header nav ul li a
 {
 	display: block;
-	padding: 1rem;
+	padding: 0.5rem 1rem;
 }
 
 /**
@@ -244,4 +236,30 @@ iframe
 	border: 1px solid black;
 	display: block;
 	width: 100%;
+}
+
+/**
+ * Fix some mobile device jank
+ */
+@media only screen and (max-device-width: 40em)
+{
+	/**
+	 * Make the nav bar be columar, instead of a row
+	 */
+	body>header nav ul
+	{
+		flex-direction: column;
+		text-align: center;
+	}
+	body>header nav ul li
+	{
+		row-gap: 1em;
+	}
+	/**
+	 * Fixup padding
+	 */
+	body>header nav ul li a
+	{
+		padding: 0.25rem 0;
+	}
 }

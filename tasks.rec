@@ -1,7 +1,7 @@
 %rec: Task
-%mandatory: Id Title Description
+%mandatory: Id Title Description Status
 %allowed: Id Title Description Type Status
-%sort: Id
+%sort: Id Status
 %type: Id int
 %auto: Id
 %type: Title line
@@ -19,11 +19,11 @@
 %summary: Id Title Status
 %doc: A list of tasks for my site.
 
-%Id: 1
-%Title: Cleanup Menu
-%Type: Design
-%Status: Open
-%Description:
+Id: 1
+Title: Cleanup Menu
+Type: Design
+Status: Open
+Description:
 + I should probably work on making the navbar more stand-out. Not
 + that it's hard to interpret what they do, but that they don't
 + really offer much to the user.

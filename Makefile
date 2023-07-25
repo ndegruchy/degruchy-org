@@ -1,7 +1,7 @@
 all: upload set-meta invalidate finish
 
 upload :
-	aws s3 sync $(shell pwd) s3://degruchy-org --quiet --exclude ".git**" --exclude ".aws**" --exclude ".vscode**" --exclude "*.code-workspace" --exclude ".idea**" --exclude ".editorconfig" --exclude "Makefile" --exclude ".kateproject"
+	aws s3 sync $(shell pwd) s3://degruchy-org --quiet --exclude ".git**" --exclude ".aws**" --exclude ".vscode**" --exclude "*.code-workspace" --exclude ".idea**" --exclude ".editorconfig" --exclude "Makefile" --exclude ".kateproject" --exclude "tasks.rec"
 
 set-meta:
 	aws s3 cp s3://degruchy-org/assets s3://degruchy-org/assets --quiet --cache-control "max-age=15778476" --content-type "text/css" --exclude "*" --include "*.css" --metadata-directive REPLACE --recursive

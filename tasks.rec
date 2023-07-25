@@ -1,20 +1,20 @@
 %rec: Task
 %mandatory: Id Title Description
 %allowed: Id Title Description Type Status
-%sort: Id Status
+%sort: Id
 %type: Id int
 %auto: Id
 %type: Title line
 %typedef: Type_t enum
-+ Bug (Issue with site)
-+ Design (Issue with CSS/HTML)
-+ Feature_Request (Something I'd like to have)
-+ Project (A project)
++ Bug
++ Design
++ Feature_Request
++ Project
 %type: Type Type_t
 %typedef: Status_t enum
-+ Open (Awaiting work)
-+ In_Progress (Working on it)
-+ Closed (Done)
++ Open
++ In_Progress
++ Closed
 %type: Status Status_t
 %summary: Id Title Status
 %doc: A list of tasks for my site.

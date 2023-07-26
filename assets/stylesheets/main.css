@@ -118,7 +118,7 @@ body>header nav ul
 body>header nav ul li
 {
 	list-style-type: none;
-	min-width: 150px;
+	min-width: 100px;
 }
 body>header nav ul li a
 {

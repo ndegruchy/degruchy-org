@@ -11,6 +11,29 @@
 	font-family: system-ui;
 	margin: 0;
 	padding: 0;
+	--link-color: #606C38;
+	--back-color: #FEFAE0;
+	--front-color: #283618;
+	--visit-color: #BC6C25;
+}
+
+@media (prefers-color-scheme: dark)
+{
+	:root
+	{
+		--link-color: #DDA15E;
+		--back-color: #283618;
+		--front-color: #FEFAE0;
+		--visit-color: #BC6C25;
+	}
+}
+
+a {color: var(--link-color);}
+a:visited {color: var(--visit-color);}
+body
+{
+	background-color: var(--back-color);
+	color: var(--front-color);
 }
 
 /* Reset box-sizing */

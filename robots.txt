@@ -1,3 +1,5 @@
+User-agent: chatgpt
+Disallow: *
 User-agent: *
 Disallow: /api
 Disallow: /blog

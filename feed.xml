@@ -14,6 +14,18 @@
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
 	<entry>
+	  <title>Arkenfox</title>
+	  <id>https://degruchy.org/#20230928-arkenfox</id>
+	  <link rel="alternate" href="https://degruchy.org/#20230928-arkenfox" />
+	  <author>
+		<name>Nathan DeGruchy</name>
+		<email>nathan@degruchy.org</email>
+	  </author>
+	  <updated>2023-09-28T15:38:08-0400</updated>
+	  <published>2023-09-28T15:38:08-0400</published>
+	  <content />
+	</entry>
+	<entry>
 	  <title>Paying My Way</title>
 	  <id>https://degruchy.org/#20230925-paying-my-way</id>
 	  <link rel="alternate" href="https://degruchy.org/#20230925-paying-my-way" />

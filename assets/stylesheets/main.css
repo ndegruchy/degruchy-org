@@ -128,28 +128,6 @@ body>header h1 picture img
 	margin-right: auto;
 }
 
-body>header nav ul
-{
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: center;
-	margin: 0;
-	padding: 0;
-}
-
-
-body>header nav ul li
-{
-	list-style-type: none;
-	min-width: 100px;
-}
-body>header nav ul li a
-{
-	display: block;
-	padding: 0.5rem 1rem;
-	text-align: center;
-}
-
 /**
  * Articles
  */

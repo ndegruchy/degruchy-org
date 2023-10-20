@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Verily at DeGruchy.org</title>
 	<link href="https://degruchy.org/" />
-	<updated>2023-09-28T19:18:10-0400</updated>
+	<updated>2023-10-20T15:29:16.591Z</updated>
 	<author>
 		<name>Nathan DeGruchy</name>
 		<email>nathan@degruchy.org</email>
@@ -13,6 +13,27 @@
 	<icon>https://degruchy.org/assets/images/2020-minimal-avatar-50.webp</icon>
 	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
 	<id>https://degruchy.org/</id>
+	<entry>
+		<title>I Think I’m Learning Japanese, I Think I’m Learning Japanese</title>
+		<id>https://degruchy.org/#20231020-i-think-i-m-learning-japanese--i-think-i-m-learning-japanese</id>
+		<link rel="alternate" href="https://degruchy.org#20231020-i-think-i-m-learning-japanese--i-think-i-m-learning-japanese" />
+		<author>
+			<name>Nathan DeGruchy</name>
+			<email>nathan@degruchy.org</email>
+		</author>
+		<updated>2023-10-20T15:28:53.790Z</updated>
+		<published>2023-10-20T15:28:53.791Z</published>
+		<content />
+	</entry>
+	<entry>
+		<title>Why Do I Do This To Myself?</title>
+		<id>https://degruchy.org/#20231019-why-do-i-do-this-to-myself</id>
+		<link rel="alternative" href="https://degruchy.org/#20231019-why-do-i-do-this-to-myself" />
+		<author>
+			<name>Nathan DeGruchy</name>
+			<email>nathan@degruchy.org</email>
+		</author>
+	</entry>
 	<entry>
 	  <title>Bandcamp Sold... Again</title>
 	  <id>https://degruchy.org/#20230928-bandcamp-sold-again</id>

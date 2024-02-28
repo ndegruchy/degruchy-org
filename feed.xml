@@ -1,1628 +1,1654 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Verily at DeGruchy.org</title>
-	<link href="https://degruchy.org/" />
-	<updated>2023-10-20T15:29:16.591Z</updated>
-	<author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	</author>
-	<generator uri="https://degruchy.org">
-		Nathan DeGruchy
-	</generator>
-	<icon>https://degruchy.org/assets/images/2020-minimal-avatar-50.webp</icon>
-	<rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
-	<id>https://degruchy.org/</id>
-	<entry>
-		<title>I Think I’m Learning Japanese, I Think I’m Learning Japanese</title>
-		<id>https://degruchy.org/#20231020-i-think-i-m-learning-japanese--i-think-i-m-learning-japanese</id>
-		<link rel="alternate" href="https://degruchy.org#20231020-i-think-i-m-learning-japanese--i-think-i-m-learning-japanese" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-10-20T15:28:53.790Z</updated>
-		<published>2023-10-20T15:28:53.791Z</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Why Do I Do This To Myself?</title>
-		<id>https://degruchy.org/#20231019-why-do-i-do-this-to-myself</id>
-		<link rel="alternative" href="https://degruchy.org/#20231019-why-do-i-do-this-to-myself" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-	</entry>
-	<entry>
-	  <title>Bandcamp Sold... Again</title>
-	  <id>https://degruchy.org/#20230928-bandcamp-sold-again</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230928-bandcamp-sold-again" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-09-28T16:32:17-0400</updated>
-	  <published>2023-09-28T16:32:17-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>Arkenfox</title>
-	  <id>https://degruchy.org/#20230928-arkenfox</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230928-arkenfox" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-09-28T15:38:08-0400</updated>
-	  <published>2023-09-28T15:38:08-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>Paying My Way</title>
-	  <id>https://degruchy.org/#20230925-paying-my-way</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230925-paying-my-way" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-09-25T09:12:19-0400</updated>
-	  <published>2023-09-25T09:12:19-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>If I Could Turn Back Time</title>
-	  <id>https://degruchy.org/#20230922-if-i-could-turn-back-time</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230922-if-i-could-turn-back-time" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-09-22T11:17:29-0400</updated>
-	  <published>2023-09-22T11:17:29-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>I Hate Computers</title>
-	  <id>https://degruchy.org/#20230727-i-hate-computers</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230727-i-hate-computers" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-27T11:05:57-0400</updated>
-	  <published>2023-07-27T11:05:57-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>Fossil Record</title>
-	  <id>https://degruchy.org/#20230724-fossil-record</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230724-fossil-record" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-24T17:08:40-0400</updated>
-	  <published>2023-07-24T17:08:40-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>NOLA</title>
-	  <id>https://degruchy.org/#20230722-nola</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230722-nola" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-22T18:44:06-0400</updated>
-	  <published>2023-07-22T18:44:06-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>Overwatch 2 Coming to Steam</title>
-	  <id>https://degruchy.org/#20230719-overwatch-2-coming-to-steam</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230719-overwatch-2-coming-to-steam" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-19T13:57:40-0400</updated>
-	  <published>2023-07-19T13:57:40-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>When You Have a Hunting Horn Main On Your Team</title>
-	  <id>https://degruchy.org/#20230717-when-you-have-a-hunting-horn-main-on-your-team</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230717-when-you-have-a-hunting-horn-main-on-your-team" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-17T09:37:48-0400</updated>
-	  <published>2023-07-17T09:37:48-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>Looping</title>
-	  <id>https://degruchy.org/#20230713-looping</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230713-looping" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-13T15:34:52-0400</updated>
-	  <published>2023-07-13T15:34:52-0400</published>
-	  <content />
-	</entry>
-	<entry>
-		<title>Pardon the Interruption</title>
-		<id>https://degruchy.org/#20230713-pardon-the-interruption</id>
-		<link rel="alternate" href="https://degruchy.org#20230713-pardon-the-interruption" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-07-13T14:08:50.666Z</updated>
-		<published>2023-07-13T14:08:50.666Z</published>
-		<content />
-	</entry>
-	<entry>
-	  <title>Simple Unix Chat</title>
-	  <id>https://degruchy.org/#20230706-simple-unix-chat</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230706-simple-unix-chat" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-06T12:46:58-0400</updated>
-	  <published>2023-07-06T12:46:58-0400</published>
-	  <content />
-	</entry>
-	<entry>
-	  <title>Goodbye Miss May. I Love You.</title>
-	  <id>https://degruchy.org/#20230702-goodbye-miss-may-i-love-you</id>
-	  <link rel="alternate" href="https://degruchy.org/#20230702-goodbye-miss-may-i-love-you" />
-	  <author>
-		<name>Nathan DeGruchy</name>
-		<email>nathan@degruchy.org</email>
-	  </author>
-	  <updated>2023-07-02T13:58:29-0400</updated>
-	  <published>2023-07-02T13:58:29-0400</published>
-	  <content />
-	</entry>
-	<entry>
-		<title>Don't Fear the Reaper</title>
-		<link rel="alternative" href="https://degruchy.org/#20230628-dont-fear-the-reaper" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-06-28T15:52:27-04:00</updated>
-		<published>2023-06-28T15:52:27-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Image Optimization</title>
-		<link rel="alternative" href="https://degruchy.org/#20230626-image-optimization" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-06-26T10:05:44-04:00</updated>
-		<published>2023-06-26T10:05:44-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>The (One) Ring</title>
-		<link rel="alternative" href="https://degruchy.org/#20230626-the-one-ring" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-06-26T08:43:36-04:00</updated>
-		<published>2023-06-26T08:43:36-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>A Little ChatGPT</title>
-		<id>https://degruchy.org/#20230620-a-little-chatgpt</id>
-		<link rel="alternate" href="https://degruchy.org#20230620-a-little-chatgpt" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-06-20T14:10:22.268Z</updated>
-		<published>2023-06-20T14:10:22.268Z</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Learning How to Date Better</title>
-		<id>https://degruchy.org/#20230612-learning-how-to-date-better</id>
-		<link rel="alternate" href="https://degruchy.org#20230612-learning-how-to-date-better" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-06-12T16:41:48.913Z</updated>
-		<published>2023-06-12T16:41:48.913Z</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Debian 12</title>
-		<id>https://degruchy.org/#20230612-debian-12</id>
-		<link rel="alternate" href="https://degruchy.org#20230612-debian-12" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-06-12T13:32:11.377Z</updated>
-		<published>2023-06-12T13:32:11.377Z</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Lockheart</title>
-		<id>https://degruchy.org/#20230530-lockheart</id>
-		<link rel="alternate" href="https://degruchy.org/#20230530-lockheart" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-05-30T10:01:00-0400</updated>
-		<published>2023-05-30T10:01:00-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Tears of the Lost Fantasy Game</title>
-		<id>https://degruchy.org/#20230515-tears-of-the-lost-fantasy-game</id>
-		<link rel="alternate" href="https://degruchy.org/#20230515-tears-of-the-lost-fantasy-game" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-05-15T14:05:33-0400</updated>
-		<published>2023-05-15T14:05:33-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>What About Escapism?</title>
-		<id>https://degruchy.org/#20230502-what-about-escapism</id>
-		<link rel="alternate" href="https://degruchy.org/#20230502-what-about-escapism" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-05-02T09:49:17-0400</updated>
-		<published>2023-05-02T09:49:17-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Hacker Snooze</title>
-		<id>https://degruchy.org/#20230425-hacker-snooze</id>
-		<link rel="alternate" href="https://degruchy.org/#20230425-hacker-snooze" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-04-25T10:37:03-0400</updated>
-		<published>2023-04-25T10:37:03-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>What a Mess</title>
-		<id>https://degruchy.org/#20230420-what-a-mess</id>
-		<link rel="alternate" href="https://degruchy.org/#20230420-what-a-mess" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-04-20T09:14:32-0400</updated>
-		<published>2023-04-20T09:14:32-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Apathy</title>
-		<id>https://degruchy.org/#20230416-apathy</id>
-		<link rel="alternate" href="https://degruchy.org/#20230416-apathy" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-04-16T23:47:15-0400</updated>
-		<published>2023-04-16T23:47:15-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Disappointing CyberDoom</title>
-		<id>https://degruchy.org/#20230406-disappointing-cyber-doom</id>
-		<link rel="alternate" href="https://degruchy.org/#20230406-disappointing-cyber-doom" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-04-06T09:52:09-0400</updated>
-		<published>2023-04-06T09:52:09-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Cheap, Easy and Fast. Choose All Three</title>
-		<id>https://degruchy.org/#20230324-cheap-easy-and-fast-choose-all-three</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20230324-cheap-easy-and-fast-choose-all-three" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-03-24T11:10:31-0400</updated>
-		<published>2023-03-24T11:10:31-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Oops! All Games!</title>
-		<id>https://degruchy.org/#20230322-oops-all-games</id>
-		<link rel="alternate" href="https://degruchy.org/#20230322-oops-all-games" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-03-22T15:55:02-0400</updated>
-		<published>2023-03-22T15:55:02-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Someone Finally Thought of the Children</title>
-		<id>https://degruchy.org/#20230308-someone-finally-thought-of-the-children</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20230308-someone-finally-thought-of-the-children" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-03-08T12:37:11-0500</updated>
-		<published>2023-03-08T12:37:11-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Mask Mandates</title>
-		<id>https://degruchy.org/#20230302-mask-mandates</id>
-		<link rel="alternate" href="https://degruchy.org/#20230302-mask-mandates" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-03-02T10:33:03-0500</updated>
-		<published>2023-03-02T10:33:03-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>No Mans Sky is Weird</title>
-		<id>https://degruchy.org/#20230228-no-mans-sky-is-weird</id>
-		<link rel="alternate" href="https://degruchy.org/#20230228-no-mans-sky-is-weird" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-28T10:15:38-0500</updated>
-		<published>2023-02-28T10:15:38-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Hold My Lightsaber</title>
-		<id>https://degruchy.org/#20230227-hold-my-lightsaber</id>
-		<link rel="alternate" href="https://degruchy.org/#20230227-hold-my-lightsaber" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-27T10:14:07-0500</updated>
-		<published>2023-02-27T10:14:07-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Red Dead Redemption</title>
-		<id>https://degruchy.org/#20230220-red-dead-redemption</id>
-		<link rel="alternate" href="https://degruchy.org/#20230220-red-dead-redemption" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-20T14:08:39-0500</updated>
-		<published>2023-02-20T14:08:39-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>KevQ: Micro.Blog is Still Confusing</title>
-		<id>https://degruchy.org/#20230216-kev-q-micro-blog-is-still-confusing</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20230216-kev-q-micro-blog-is-still-confusing" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-16T12:34:19-0500</updated>
-		<published>2023-02-16T12:34:19-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Happy Valentine's Day</title>
-		<id>https://degruchy.org/#20230214-happy-valentine-s-day</id>
-		<link rel="alternate" href="https://degruchy.org/#20230214-happy-valentine-s-day" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-14T22:09:32-0500</updated>
-		<published>2023-02-14T22:09:32-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>The Amiga: Sadly Before My Time</title>
-		<id>https://degruchy.org/#20230210-the-amiga-sadly-before-my-time</id>
-		<link rel="alternate" href="https://degruchy.org/#20230210-the-amiga-sadly-before-my-time" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-10T22:45:10-0500</updated>
-		<published>2023-02-10T22:45:10-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Oh How I Hate/Love the News</title>
-		<id>https://degruchy.org/#20230208-oh-how-i-hate-love-the-news</id>
-		<link rel="alternate" href="https://degruchy.org/#20230208-oh-how-i-hate-love-the-news" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-08T14:23:46-0500</updated>
-		<published>2023-02-08T14:23:46-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Professionals Have Standards</title>
-		<id>https://degruchy.org/#20230202-professionals-have-standards</id>
-		<link rel="alternate" href="https://degruchy.org/#20230202-professionals-have-standards" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2023-02-02T10:11:47-0500</updated>
-		<published>2023-02-02T10:11:47-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>007: Goldeneye</title>
-		<id>https://degruchy.org/#20230125-007-goldeneye</id>
-		<link rel="alternate" href="https://degruchy.org/#20230125-007-goldeneye" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2023-01-25T09:40:27-04:00</updated>
-		<published>2023-01-25T09:40:27-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Steam Deck: What a Delight to Behold</title>
-		<id>https://degruchy.org/#20230123-steamdeck</id>
-		<link rel="alternate" href="https://degruchy.org/#20230123-steamdeck" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2023-01-23T13:05:10-04:00</updated>
-		<published>2023-01-23T13:05:10-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>How I Build This Site</title>
-		<id>https://degruchy.org/#20230111-how-i-build-this-site</id>
-		<link rel="alternate" href="https://degruchy.org/#20230111-how-i-build-this-site" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2023-01-11T10:40:36-0500</updated>
-		<published>2023-01-11T10:40:36-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>RANDALL!!!</title>
-		<id>https://degruchy.org/#20230110-randall</id>
-		<link rel="alternate" href="https://degruchy.org/#20230110-randall" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2023-01-10T15:51:05-0500</updated>
-		<published>2023-01-10T15:51:05-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>X Window Basics</title>
-		<id>https://degruchy.org/#20230110-x-window-basics</id>
-		<link rel="alternate" href="https://degruchy.org/#20230110-x-window-basics" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2023-01-10T15:50:57-0500</updated>
-		<published>2023-01-10T15:50:57-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Choose Two</title>
-		<id>https://degruchy.org/#20230109-choose-two</id>
-		<link rel="alternate" href="https://degruchy.org/#20230109-choose-two" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2023-01-09T13:21:15-0500</updated>
-		<published>2023-01-09T13:21:15-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Merry Christmas</title>
-		<id>https://degruchy.org/#20221228-merry-christmas</id>
-		<link rel="alternative" href="https://degruchy.org/#20221228-merry-christmas" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-12-28T00:00:00-0500</updated>
-		<published>2022-12-28T00:00:00-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>More Emacs Archaeology: Input Methods</title>
-		<id>https://degruchy.org/#20221214-more-emacs-archaeology-input-methods</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20221214-more-emacs-archaeology-input-methods" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-12-14T19:13:10-0500</updated>
-		<published>2022-12-14T19:13:10-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Finally</title>
-		<id>https://degruchy.org/#20221130-finally</id>
-		<link rel="alternate" href="https://degruchy.org/#20221130-finally" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-30T11:29:19-0500</updated>
-		<published>2022-11-30T11:29:19-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>GNU Readline Neatness</title>
-		<id>https://degruchy.org/#20221129-gnu-readline-neatness</id>
-		<link rel="alternate" href="https://degruchy.org/#20221129-gnu-readline-neatness" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-29T16:52:36-0500</updated>
-		<published>2022-11-29T16:52:36-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Tumblr to Add ActivityPub Support</title>
-		<id>https://degruchy.org/#20221122-tumblr-to-add-activity-pub-support</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20221122-tumblr-to-add-activity-pub-support" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-22T13:11:45-0500</updated>
-		<published>2022-11-22T13:11:45-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Package Install Without Use-Package</title>
-		<id>https://degruchy.org/#20221120-package-install-without-use-package</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20221120-package-install-without-use-package" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-20T15:21:42-0500</updated>
-		<published>2022-11-20T15:21:42-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Recession is Coming</title>
-		<id>https://degruchy.org/#20221117-recession-is-coming</id>
-		<link rel="alternate" href="https://degruchy.org/#20221117-recession-is-coming" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-17T14:19:31-0500</updated>
-		<published>2022-11-17T14:19:31-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>I Sold it On Ebay</title>
-		<id>https://degruchy.org/#20221113-i-sold-it-on-ebay</id>
-		<link rel="alternate" href="https://degruchy.org/#20221113-i-sold-it-on-ebay" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-13T22:29:03-0500</updated>
-		<published>2022-11-13T22:29:03-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Tired</title>
-		<id>https://degruchy.org/#20221111-tired</id>
-		<link rel="alternate" href="https://degruchy.org/#20221111-tired" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-11T17:11:55-0500</updated>
-		<published>2022-11-11T17:11:55-0500</published>
-		<content />
-	</entry>
-	<entry>
-		<title>My Time with Android</title>
-		<id>https://degruchy.org/#20221107-my-time-with-android</id>
-		<link rel="alternate" href="https://degruchy.org/#20221107-my-time-with-android" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-11-08T16:09:24-04:00</updated>
-		<published>2022-11-08T16:09:24-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Off My Meds</title>
-		<id>https://degruchy.org/#20221104-off-my-meds</id>
-		<link rel="alternate" href="https://degruchy.org/#20221104-off-my-meds" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-04T17:21:38-0400</updated>
-		<published>2022-11-04T17:21:38-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Don't Ever Setup an ActivityPub Instance on Your Domain</title>
-		<id>https://degruchy.org/#20221102-don-t-ever-setup-an-activity-pub-instance-on-your-domain</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20221102-don-t-ever-setup-an-activity-pub-instance-on-your-domain" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-11-02T14:19:42-0400</updated>
-		<published>2022-11-02T14:19:42-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Blog Block</title>
-		<id>https://degruchy.org/#20221031-blog-block</id>
-		<link rel="alternate" href="https://degruchy.org/#20221031-blog-block" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-31T17:06:56-0400</updated>
-		<published>2022-10-31T17:06:56-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Happy Halloween</title>
-		<id>https://degruchy.org/#20221031-happy-halloween</id>
-		<link rel="alternate" href="https://degruchy.org/#20221031-happy-halloween" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-10-31T10:36:56-04:00</updated>
-		<published>2022-10-31T10:36:56-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Elon Buys Twitter</title>
-		<id>https://degruchy.org/#20221028-elon-buys-twitter</id>
-		<link rel="alternate" href="https://degruchy.org/#20221028-elon-buys-twitter" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-28T09:49:20-0400</updated>
-		<published>2022-10-28T09:49:20-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Untitled(1)</title>
-		<id>https://degruchy.org/#20221026-untitled-1</id>
-		<link rel="alternate" href="https://degruchy.org/#20221026-untitled-1" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-26T16:27:25-0400</updated>
-		<published>2022-10-26T16:27:25-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Downscaling My Emacs Package Usage</title>
-		<id>https://degruchy.org/#20221019-downscaling-my-emacs-package-usage</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20221019-downscaling-my-emacs-package-usage" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-19T20:37:35-0400</updated>
-		<published>2022-10-19T20:37:35-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Tailscaling My Network</title>
-		<id>https://degruchy.org/#20221014-tailscaling-my-network</id>
-		<link rel="alternate" href="https://degruchy.org/#20221014-tailscaling-my-network" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-14T16:21:43-0400</updated>
-		<published>2022-10-14T16:21:43-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>She-Hulk Smashes the 4th Wall (and Matt Murdock)</title>
-		<id>https://degruchy.org/#20221013-she-hulk-smashes-the-4th-wall-and-matt-murdock</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20221013-she-hulk-smashes-the-4th-wall-and-matt-murdock" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-13T13:07:27-0400</updated>
-		<published>2022-10-13T13:07:27-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Web Metrics Considered Harmful (Usually)</title>
-		<id>https://degruchy.org/#20221010-web-metrics-considered-harmful-usually-</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20221013-web-metrics-considered-harmful-usually-" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-10T20:48:02-0400</updated>
-		<published>2022-10-13T10:08:53-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Temptation</title>
-		<id>https://degruchy.org/#20221010-temptation</id>
-		<link rel="alternate" href="https://degruchy.org/#20221010-temptation" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-10T11:20:32-0400</updated>
-		<published>2022-10-10T11:20:32-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Super Maro Bros</title>
-		<id>https://degruchy.org/#20221007-super-maro-bros</id>
-		<link rel="alternate" href="https://degruchy.org/#20221007-super-maro-bros" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-07T09:55:23-0400</updated>
-		<published>2022-10-07T09:55:23-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Migration: Complete</title>
-		<id>https://degruchy.org/#20221004-migration-complete</id>
-		<link rel="alternate" href="https://degruchy.org/#20221004-migration-complete" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-04T13:03:20-0400</updated>
-		<published>2022-10-04T13:03:20-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Some Sort of Issue</title>
-		<id>https://degruchy.org/#20221004-some-sort-of-issue</id>
-		<link rel="alternate" href="https://degruchy.org/#20221004-some-sort-of-issue" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-04T11:14:37-0400</updated>
-		<published>2022-10-04T11:14:37-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Online Publishing</title>
-		<id>https://degruchy.org/#20221003-online-publishing</id>
-		<link rel="alternate" href="https://degruchy.org/#20221003-online-publishing" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-10-03T15:43:04-0400</updated>
-		<published>2022-10-03T15:43:04-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Shocking: Google Stadia to be Shut Down /s</title>
-		<id>https://degruchy.org/#20220929-shocking-google-stadia-to-be-shut-down</id>
-		<link rel="alternate"
-			href="https://degruchy.org/#20220929-shocking-google-stadia-to-be-shut-down" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-29T14:17:38-0400</updated>
-		<published>2022-09-29T14:17:38-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>No More Third-Party Fonts</title>
-		<id>https://degruchy.org/#20220927-no-more-third-party-fonts</id>
-		<link rel="alternate" href="https://degruchy.org/#20220927-no-more-third-party-fonts" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-09-27T11:02:38-04:00</updated>
-		<published>2022-09-27T11:02:38-04:00</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Emacs Selection Woes</title>
-		<id>https://degruchy.org/#20220926-emacs-selection-woes</id>
-		<link rel="alternate" href="https://degruchy.org/#20220926-emacs-selection-woes" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-26T15:18:21-0400</updated>
-		<published>2022-09-26T15:18:21-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Spider-Man</title>
-		<id>https://degruchy.org/#20220926-spider-man</id>
-		<link rel="alternate" href="https://degruchy.org/#20220926-spider-man" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-26T13:27:11-0400</updated>
-		<published>2022-09-26T13:27:11-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Emacs Archeology: IMenu</title>
-		<id>https://degruchy.org/#20220926-emacs-archeology-imenu</id>
-		<link rel="alternate" href="https://degruchy.org/#20220926-emacs-archeology-imenu" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-26T10:22:35-0400</updated>
-		<published>2022-09-26T10:22:35-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Vacci-Nation</title>
-		<id>https://degruchy.org/#20220922-vacci-nation</id>
-		<link rel="alternate" href="https://degruchy.org/#20220922-vacci-nation" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-22T11:19:58-0400</updated>
-		<published>2022-09-22T11:19:58-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Plumbing the Depths: Rec Mode</title>
-		<id>https://degruchy.org/#20220921-plumbing-the-depths-rec-mode</id>
-		<link rel="alternate" href="https://degruchy.org/#20220921-plumbing-the-depths-rec-mode" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-21T16:55:55-0400</updated>
-		<published>2022-09-21T16:55:55-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>I Am so Tired</title>
-		<id>https://degruchy.org/#20220920-i-m-so-tired</id>
-		<link rel="alternate" href="https://degruchy.org/#20220920-i-m-so-tired" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-20T17:03:25-0400</updated>
-		<published>2022-09-20T17:03:25-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Mindustry</title>
-		<id>https://degruchy.org/#20220914-mindustry</id>
-		<link rel="alternate" href="https://degruchy.org/#20220914-mindustry" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-14T17:08:16-0400</updated>
-		<published>2022-09-14T17:08:16-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>My Favorite iOS 16 Feature</title>
-		<id>https://degruchy.org/#20220913-my-favorite-i-os-16-feature</id>
-		<link rel="alternate" href="https://degruchy.org/#20220913-my-favorite-i-os-16-feature" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-13T10:35:24-0400</updated>
-		<published>2022-09-13T10:35:24-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Reaping What You Sow</title>
-		<id>https://degruchy.org/#20220910-reaping-what-you-sow</id>
-		<link rel="alternate" href="https://degruchy.org/#20220910-reaping-what-you-sow" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-10T12:51:29-0400</updated>
-		<published>2022-09-10T12:51:29-0400</published>
-		<content />
-	</entry>
+  <title>Verily at DeGruchy.org</title>
+  <link href="https://degruchy.org/" />
+  <updated>2023-10-20T15:29:16.591Z</updated>
+  <author>
+    <name>Nathan DeGruchy</name>
+    <email>nathan@degruchy.org</email>
+  </author>
+  <generator uri="https://degruchy.org">
+    Nathan DeGruchy
+  </generator>
+  <icon>https://degruchy.org/assets/images/2020-minimal-avatar-50.webp</icon>
+  <rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
+  <id>https://degruchy.org/</id>
+  <entry>
+    <title>So, Where to Now?</title>
+    <id>https://degruchy.org/#20240228-so-where-to-now</id>
+    <link rel="alternate" href="https://degruchy.org/#20240228-so-where-to-now" />
+    <content/>
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2024-02-28T15:03:07-0500</updated>
+    <published>2024-02-28T15:03:07-0500</published>
+  </entry>
 
-	<entry>
-		<title>More Emacs Archeology</title>
-		<id>https://degruchy.org/#20220908-more-emacs-archeology</id>
-		<link rel="alternate" href="https://degruchy.org/#20220908-more-emacs-archeology" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-08T17:02:14-0400</updated>
-		<published>2022-09-08T17:02:14-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Automattic Has Some Explaining To Do</title>
+    <id>https://degruchy.org/#20240227-automattic-has-some-explaining-to-do</id>
+    <link rel="alternate" href="https://degruchy.org/#20240227-automattic-has-some-explaining-to-do" />
+    <content/>
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2024-02-27T17:29:49-0500</updated>
+    <published>2024-02-27T17:29:54-0500</published>
+  </entry>
 
-	<entry>
-		<title>R.I.P. Queen Elizabeth II</title>
-		<id>https://degruchy.org/#20220908-r-i-p-queen-elizabeth-ii</id>
-		<link rel="alternate" href="https://degruchy.org/#20220908-r-i-p-queen-elizabeth-ii" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-08T13:56:11-0400</updated>
-		<published>2022-09-08T13:56:11-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>I Think I’m Learning Japanese, I Think I’m Learning Japanese</title>
+    <id>https://degruchy.org/#20231020-i-think-i-m-learning-japanese--i-think-i-m-learning-japanese</id>
+    <link rel="alternate" href="https://degruchy.org#20231020-i-think-i-m-learning-japanese--i-think-i-m-learning-japanese" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-10-20T15:28:53.790Z</updated>
+    <published>2023-10-20T15:28:53.791Z</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Why Do I Do This To Myself?</title>
+    <id>https://degruchy.org/#20231019-why-do-i-do-this-to-myself</id>
+    <link rel="alternative" href="https://degruchy.org/#20231019-why-do-i-do-this-to-myself" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Bandcamp Sold... Again</title>
+    <id>https://degruchy.org/#20230928-bandcamp-sold-again</id>
+    <link rel="alternate" href="https://degruchy.org/#20230928-bandcamp-sold-again" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-09-28T16:32:17-0400</updated>
+    <published>2023-09-28T16:32:17-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Arkenfox</title>
+    <id>https://degruchy.org/#20230928-arkenfox</id>
+    <link rel="alternate" href="https://degruchy.org/#20230928-arkenfox" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-09-28T15:38:08-0400</updated>
+    <published>2023-09-28T15:38:08-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Paying My Way</title>
+    <id>https://degruchy.org/#20230925-paying-my-way</id>
+    <link rel="alternate" href="https://degruchy.org/#20230925-paying-my-way" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-09-25T09:12:19-0400</updated>
+    <published>2023-09-25T09:12:19-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>If I Could Turn Back Time</title>
+    <id>https://degruchy.org/#20230922-if-i-could-turn-back-time</id>
+    <link rel="alternate" href="https://degruchy.org/#20230922-if-i-could-turn-back-time" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-09-22T11:17:29-0400</updated>
+    <published>2023-09-22T11:17:29-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>I Hate Computers</title>
+    <id>https://degruchy.org/#20230727-i-hate-computers</id>
+    <link rel="alternate" href="https://degruchy.org/#20230727-i-hate-computers" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-27T11:05:57-0400</updated>
+    <published>2023-07-27T11:05:57-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Fossil Record</title>
+    <id>https://degruchy.org/#20230724-fossil-record</id>
+    <link rel="alternate" href="https://degruchy.org/#20230724-fossil-record" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-24T17:08:40-0400</updated>
+    <published>2023-07-24T17:08:40-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>NOLA</title>
+    <id>https://degruchy.org/#20230722-nola</id>
+    <link rel="alternate" href="https://degruchy.org/#20230722-nola" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-22T18:44:06-0400</updated>
+    <published>2023-07-22T18:44:06-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Overwatch 2 Coming to Steam</title>
+    <id>https://degruchy.org/#20230719-overwatch-2-coming-to-steam</id>
+    <link rel="alternate" href="https://degruchy.org/#20230719-overwatch-2-coming-to-steam" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-19T13:57:40-0400</updated>
+    <published>2023-07-19T13:57:40-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>When You Have a Hunting Horn Main On Your Team</title>
+    <id>https://degruchy.org/#20230717-when-you-have-a-hunting-horn-main-on-your-team</id>
+    <link rel="alternate" href="https://degruchy.org/#20230717-when-you-have-a-hunting-horn-main-on-your-team" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-17T09:37:48-0400</updated>
+    <published>2023-07-17T09:37:48-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Looping</title>
+    <id>https://degruchy.org/#20230713-looping</id>
+    <link rel="alternate" href="https://degruchy.org/#20230713-looping" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-13T15:34:52-0400</updated>
+    <published>2023-07-13T15:34:52-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Pardon the Interruption</title>
+    <id>https://degruchy.org/#20230713-pardon-the-interruption</id>
+    <link rel="alternate" href="https://degruchy.org#20230713-pardon-the-interruption" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-13T14:08:50.666Z</updated>
+    <published>2023-07-13T14:08:50.666Z</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Simple Unix Chat</title>
+    <id>https://degruchy.org/#20230706-simple-unix-chat</id>
+    <link rel="alternate" href="https://degruchy.org/#20230706-simple-unix-chat" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-06T12:46:58-0400</updated>
+    <published>2023-07-06T12:46:58-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Goodbye Miss May. I Love You.</title>
+    <id>https://degruchy.org/#20230702-goodbye-miss-may-i-love-you</id>
+    <link rel="alternate" href="https://degruchy.org/#20230702-goodbye-miss-may-i-love-you" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-07-02T13:58:29-0400</updated>
+    <published>2023-07-02T13:58:29-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Don't Fear the Reaper</title>
+    <link rel="alternative" href="https://degruchy.org/#20230628-dont-fear-the-reaper" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-06-28T15:52:27-04:00</updated>
+    <published>2023-06-28T15:52:27-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Image Optimization</title>
+    <link rel="alternative" href="https://degruchy.org/#20230626-image-optimization" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-06-26T10:05:44-04:00</updated>
+    <published>2023-06-26T10:05:44-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>The (One) Ring</title>
+    <link rel="alternative" href="https://degruchy.org/#20230626-the-one-ring" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-06-26T08:43:36-04:00</updated>
+    <published>2023-06-26T08:43:36-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>A Little ChatGPT</title>
+    <id>https://degruchy.org/#20230620-a-little-chatgpt</id>
+    <link rel="alternate" href="https://degruchy.org#20230620-a-little-chatgpt" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-06-20T14:10:22.268Z</updated>
+    <published>2023-06-20T14:10:22.268Z</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Learning How to Date Better</title>
+    <id>https://degruchy.org/#20230612-learning-how-to-date-better</id>
+    <link rel="alternate" href="https://degruchy.org#20230612-learning-how-to-date-better" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-06-12T16:41:48.913Z</updated>
+    <published>2023-06-12T16:41:48.913Z</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Debian 12</title>
+    <id>https://degruchy.org/#20230612-debian-12</id>
+    <link rel="alternate" href="https://degruchy.org#20230612-debian-12" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-06-12T13:32:11.377Z</updated>
+    <published>2023-06-12T13:32:11.377Z</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Lockheart</title>
+    <id>https://degruchy.org/#20230530-lockheart</id>
+    <link rel="alternate" href="https://degruchy.org/#20230530-lockheart" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-05-30T10:01:00-0400</updated>
+    <published>2023-05-30T10:01:00-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Tears of the Lost Fantasy Game</title>
+    <id>https://degruchy.org/#20230515-tears-of-the-lost-fantasy-game</id>
+    <link rel="alternate" href="https://degruchy.org/#20230515-tears-of-the-lost-fantasy-game" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-05-15T14:05:33-0400</updated>
+    <published>2023-05-15T14:05:33-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>What About Escapism?</title>
+    <id>https://degruchy.org/#20230502-what-about-escapism</id>
+    <link rel="alternate" href="https://degruchy.org/#20230502-what-about-escapism" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-05-02T09:49:17-0400</updated>
+    <published>2023-05-02T09:49:17-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Hacker Snooze</title>
+    <id>https://degruchy.org/#20230425-hacker-snooze</id>
+    <link rel="alternate" href="https://degruchy.org/#20230425-hacker-snooze" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-04-25T10:37:03-0400</updated>
+    <published>2023-04-25T10:37:03-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>What a Mess</title>
+    <id>https://degruchy.org/#20230420-what-a-mess</id>
+    <link rel="alternate" href="https://degruchy.org/#20230420-what-a-mess" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-04-20T09:14:32-0400</updated>
+    <published>2023-04-20T09:14:32-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Apathy</title>
+    <id>https://degruchy.org/#20230416-apathy</id>
+    <link rel="alternate" href="https://degruchy.org/#20230416-apathy" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-04-16T23:47:15-0400</updated>
+    <published>2023-04-16T23:47:15-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Disappointing CyberDoom</title>
+    <id>https://degruchy.org/#20230406-disappointing-cyber-doom</id>
+    <link rel="alternate" href="https://degruchy.org/#20230406-disappointing-cyber-doom" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-04-06T09:52:09-0400</updated>
+    <published>2023-04-06T09:52:09-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Cheap, Easy and Fast. Choose All Three</title>
+    <id>https://degruchy.org/#20230324-cheap-easy-and-fast-choose-all-three</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20230324-cheap-easy-and-fast-choose-all-three" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-03-24T11:10:31-0400</updated>
+    <published>2023-03-24T11:10:31-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Oops! All Games!</title>
+    <id>https://degruchy.org/#20230322-oops-all-games</id>
+    <link rel="alternate" href="https://degruchy.org/#20230322-oops-all-games" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-03-22T15:55:02-0400</updated>
+    <published>2023-03-22T15:55:02-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Someone Finally Thought of the Children</title>
+    <id>https://degruchy.org/#20230308-someone-finally-thought-of-the-children</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20230308-someone-finally-thought-of-the-children" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-03-08T12:37:11-0500</updated>
+    <published>2023-03-08T12:37:11-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Mask Mandates</title>
+    <id>https://degruchy.org/#20230302-mask-mandates</id>
+    <link rel="alternate" href="https://degruchy.org/#20230302-mask-mandates" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-03-02T10:33:03-0500</updated>
+    <published>2023-03-02T10:33:03-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>No Mans Sky is Weird</title>
+    <id>https://degruchy.org/#20230228-no-mans-sky-is-weird</id>
+    <link rel="alternate" href="https://degruchy.org/#20230228-no-mans-sky-is-weird" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-28T10:15:38-0500</updated>
+    <published>2023-02-28T10:15:38-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Hold My Lightsaber</title>
+    <id>https://degruchy.org/#20230227-hold-my-lightsaber</id>
+    <link rel="alternate" href="https://degruchy.org/#20230227-hold-my-lightsaber" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-27T10:14:07-0500</updated>
+    <published>2023-02-27T10:14:07-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Red Dead Redemption</title>
+    <id>https://degruchy.org/#20230220-red-dead-redemption</id>
+    <link rel="alternate" href="https://degruchy.org/#20230220-red-dead-redemption" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-20T14:08:39-0500</updated>
+    <published>2023-02-20T14:08:39-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>KevQ: Micro.Blog is Still Confusing</title>
+    <id>https://degruchy.org/#20230216-kev-q-micro-blog-is-still-confusing</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20230216-kev-q-micro-blog-is-still-confusing" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-16T12:34:19-0500</updated>
+    <published>2023-02-16T12:34:19-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Happy Valentine's Day</title>
+    <id>https://degruchy.org/#20230214-happy-valentine-s-day</id>
+    <link rel="alternate" href="https://degruchy.org/#20230214-happy-valentine-s-day" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-14T22:09:32-0500</updated>
+    <published>2023-02-14T22:09:32-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>The Amiga: Sadly Before My Time</title>
+    <id>https://degruchy.org/#20230210-the-amiga-sadly-before-my-time</id>
+    <link rel="alternate" href="https://degruchy.org/#20230210-the-amiga-sadly-before-my-time" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-10T22:45:10-0500</updated>
+    <published>2023-02-10T22:45:10-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Oh How I Hate/Love the News</title>
+    <id>https://degruchy.org/#20230208-oh-how-i-hate-love-the-news</id>
+    <link rel="alternate" href="https://degruchy.org/#20230208-oh-how-i-hate-love-the-news" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-08T14:23:46-0500</updated>
+    <published>2023-02-08T14:23:46-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Professionals Have Standards</title>
+    <id>https://degruchy.org/#20230202-professionals-have-standards</id>
+    <link rel="alternate" href="https://degruchy.org/#20230202-professionals-have-standards" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2023-02-02T10:11:47-0500</updated>
+    <published>2023-02-02T10:11:47-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>007: Goldeneye</title>
+    <id>https://degruchy.org/#20230125-007-goldeneye</id>
+    <link rel="alternate" href="https://degruchy.org/#20230125-007-goldeneye" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2023-01-25T09:40:27-04:00</updated>
+    <published>2023-01-25T09:40:27-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Steam Deck: What a Delight to Behold</title>
+    <id>https://degruchy.org/#20230123-steamdeck</id>
+    <link rel="alternate" href="https://degruchy.org/#20230123-steamdeck" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2023-01-23T13:05:10-04:00</updated>
+    <published>2023-01-23T13:05:10-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>How I Build This Site</title>
+    <id>https://degruchy.org/#20230111-how-i-build-this-site</id>
+    <link rel="alternate" href="https://degruchy.org/#20230111-how-i-build-this-site" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2023-01-11T10:40:36-0500</updated>
+    <published>2023-01-11T10:40:36-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>RANDALL!!!</title>
+    <id>https://degruchy.org/#20230110-randall</id>
+    <link rel="alternate" href="https://degruchy.org/#20230110-randall" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2023-01-10T15:51:05-0500</updated>
+    <published>2023-01-10T15:51:05-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>X Window Basics</title>
+    <id>https://degruchy.org/#20230110-x-window-basics</id>
+    <link rel="alternate" href="https://degruchy.org/#20230110-x-window-basics" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2023-01-10T15:50:57-0500</updated>
+    <published>2023-01-10T15:50:57-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Choose Two</title>
+    <id>https://degruchy.org/#20230109-choose-two</id>
+    <link rel="alternate" href="https://degruchy.org/#20230109-choose-two" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2023-01-09T13:21:15-0500</updated>
+    <published>2023-01-09T13:21:15-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Merry Christmas</title>
+    <id>https://degruchy.org/#20221228-merry-christmas</id>
+    <link rel="alternative" href="https://degruchy.org/#20221228-merry-christmas" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-12-28T00:00:00-0500</updated>
+    <published>2022-12-28T00:00:00-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>More Emacs Archaeology: Input Methods</title>
+    <id>https://degruchy.org/#20221214-more-emacs-archaeology-input-methods</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20221214-more-emacs-archaeology-input-methods" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-12-14T19:13:10-0500</updated>
+    <published>2022-12-14T19:13:10-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Finally</title>
+    <id>https://degruchy.org/#20221130-finally</id>
+    <link rel="alternate" href="https://degruchy.org/#20221130-finally" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-30T11:29:19-0500</updated>
+    <published>2022-11-30T11:29:19-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>GNU Readline Neatness</title>
+    <id>https://degruchy.org/#20221129-gnu-readline-neatness</id>
+    <link rel="alternate" href="https://degruchy.org/#20221129-gnu-readline-neatness" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-29T16:52:36-0500</updated>
+    <published>2022-11-29T16:52:36-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Tumblr to Add ActivityPub Support</title>
+    <id>https://degruchy.org/#20221122-tumblr-to-add-activity-pub-support</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20221122-tumblr-to-add-activity-pub-support" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-22T13:11:45-0500</updated>
+    <published>2022-11-22T13:11:45-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Package Install Without Use-Package</title>
+    <id>https://degruchy.org/#20221120-package-install-without-use-package</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20221120-package-install-without-use-package" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-20T15:21:42-0500</updated>
+    <published>2022-11-20T15:21:42-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Recession is Coming</title>
+    <id>https://degruchy.org/#20221117-recession-is-coming</id>
+    <link rel="alternate" href="https://degruchy.org/#20221117-recession-is-coming" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-17T14:19:31-0500</updated>
+    <published>2022-11-17T14:19:31-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>I Sold it On Ebay</title>
+    <id>https://degruchy.org/#20221113-i-sold-it-on-ebay</id>
+    <link rel="alternate" href="https://degruchy.org/#20221113-i-sold-it-on-ebay" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-13T22:29:03-0500</updated>
+    <published>2022-11-13T22:29:03-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Tired</title>
+    <id>https://degruchy.org/#20221111-tired</id>
+    <link rel="alternate" href="https://degruchy.org/#20221111-tired" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-11T17:11:55-0500</updated>
+    <published>2022-11-11T17:11:55-0500</published>
+    <content />
+  </entry>
+  <entry>
+    <title>My Time with Android</title>
+    <id>https://degruchy.org/#20221107-my-time-with-android</id>
+    <link rel="alternate" href="https://degruchy.org/#20221107-my-time-with-android" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-11-08T16:09:24-04:00</updated>
+    <published>2022-11-08T16:09:24-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Off My Meds</title>
+    <id>https://degruchy.org/#20221104-off-my-meds</id>
+    <link rel="alternate" href="https://degruchy.org/#20221104-off-my-meds" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-04T17:21:38-0400</updated>
+    <published>2022-11-04T17:21:38-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Don't Ever Setup an ActivityPub Instance on Your Domain</title>
+    <id>https://degruchy.org/#20221102-don-t-ever-setup-an-activity-pub-instance-on-your-domain</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20221102-don-t-ever-setup-an-activity-pub-instance-on-your-domain" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-11-02T14:19:42-0400</updated>
+    <published>2022-11-02T14:19:42-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Blog Block</title>
+    <id>https://degruchy.org/#20221031-blog-block</id>
+    <link rel="alternate" href="https://degruchy.org/#20221031-blog-block" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-31T17:06:56-0400</updated>
+    <published>2022-10-31T17:06:56-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Happy Halloween</title>
+    <id>https://degruchy.org/#20221031-happy-halloween</id>
+    <link rel="alternate" href="https://degruchy.org/#20221031-happy-halloween" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-10-31T10:36:56-04:00</updated>
+    <published>2022-10-31T10:36:56-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Elon Buys Twitter</title>
+    <id>https://degruchy.org/#20221028-elon-buys-twitter</id>
+    <link rel="alternate" href="https://degruchy.org/#20221028-elon-buys-twitter" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-28T09:49:20-0400</updated>
+    <published>2022-10-28T09:49:20-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Untitled(1)</title>
+    <id>https://degruchy.org/#20221026-untitled-1</id>
+    <link rel="alternate" href="https://degruchy.org/#20221026-untitled-1" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-26T16:27:25-0400</updated>
+    <published>2022-10-26T16:27:25-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Downscaling My Emacs Package Usage</title>
+    <id>https://degruchy.org/#20221019-downscaling-my-emacs-package-usage</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20221019-downscaling-my-emacs-package-usage" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-19T20:37:35-0400</updated>
+    <published>2022-10-19T20:37:35-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Tailscaling My Network</title>
+    <id>https://degruchy.org/#20221014-tailscaling-my-network</id>
+    <link rel="alternate" href="https://degruchy.org/#20221014-tailscaling-my-network" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-14T16:21:43-0400</updated>
+    <published>2022-10-14T16:21:43-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>She-Hulk Smashes the 4th Wall (and Matt Murdock)</title>
+    <id>https://degruchy.org/#20221013-she-hulk-smashes-the-4th-wall-and-matt-murdock</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20221013-she-hulk-smashes-the-4th-wall-and-matt-murdock" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-13T13:07:27-0400</updated>
+    <published>2022-10-13T13:07:27-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Web Metrics Considered Harmful (Usually)</title>
+    <id>https://degruchy.org/#20221010-web-metrics-considered-harmful-usually-</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20221013-web-metrics-considered-harmful-usually-" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-10T20:48:02-0400</updated>
+    <published>2022-10-13T10:08:53-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Temptation</title>
+    <id>https://degruchy.org/#20221010-temptation</id>
+    <link rel="alternate" href="https://degruchy.org/#20221010-temptation" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-10T11:20:32-0400</updated>
+    <published>2022-10-10T11:20:32-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Super Maro Bros</title>
+    <id>https://degruchy.org/#20221007-super-maro-bros</id>
+    <link rel="alternate" href="https://degruchy.org/#20221007-super-maro-bros" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-07T09:55:23-0400</updated>
+    <published>2022-10-07T09:55:23-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Migration: Complete</title>
+    <id>https://degruchy.org/#20221004-migration-complete</id>
+    <link rel="alternate" href="https://degruchy.org/#20221004-migration-complete" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-04T13:03:20-0400</updated>
+    <published>2022-10-04T13:03:20-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Some Sort of Issue</title>
+    <id>https://degruchy.org/#20221004-some-sort-of-issue</id>
+    <link rel="alternate" href="https://degruchy.org/#20221004-some-sort-of-issue" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-04T11:14:37-0400</updated>
+    <published>2022-10-04T11:14:37-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Online Publishing</title>
+    <id>https://degruchy.org/#20221003-online-publishing</id>
+    <link rel="alternate" href="https://degruchy.org/#20221003-online-publishing" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-10-03T15:43:04-0400</updated>
+    <published>2022-10-03T15:43:04-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Shocking: Google Stadia to be Shut Down /s</title>
+    <id>https://degruchy.org/#20220929-shocking-google-stadia-to-be-shut-down</id>
+    <link rel="alternate"
+	  href="https://degruchy.org/#20220929-shocking-google-stadia-to-be-shut-down" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-29T14:17:38-0400</updated>
+    <published>2022-09-29T14:17:38-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>No More Third-Party Fonts</title>
+    <id>https://degruchy.org/#20220927-no-more-third-party-fonts</id>
+    <link rel="alternate" href="https://degruchy.org/#20220927-no-more-third-party-fonts" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-09-27T11:02:38-04:00</updated>
+    <published>2022-09-27T11:02:38-04:00</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Emacs Selection Woes</title>
+    <id>https://degruchy.org/#20220926-emacs-selection-woes</id>
+    <link rel="alternate" href="https://degruchy.org/#20220926-emacs-selection-woes" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-26T15:18:21-0400</updated>
+    <published>2022-09-26T15:18:21-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Spider-Man</title>
+    <id>https://degruchy.org/#20220926-spider-man</id>
+    <link rel="alternate" href="https://degruchy.org/#20220926-spider-man" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-26T13:27:11-0400</updated>
+    <published>2022-09-26T13:27:11-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Emacs Archeology: IMenu</title>
+    <id>https://degruchy.org/#20220926-emacs-archeology-imenu</id>
+    <link rel="alternate" href="https://degruchy.org/#20220926-emacs-archeology-imenu" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-26T10:22:35-0400</updated>
+    <published>2022-09-26T10:22:35-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Vacci-Nation</title>
+    <id>https://degruchy.org/#20220922-vacci-nation</id>
+    <link rel="alternate" href="https://degruchy.org/#20220922-vacci-nation" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-22T11:19:58-0400</updated>
+    <published>2022-09-22T11:19:58-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Plumbing the Depths: Rec Mode</title>
+    <id>https://degruchy.org/#20220921-plumbing-the-depths-rec-mode</id>
+    <link rel="alternate" href="https://degruchy.org/#20220921-plumbing-the-depths-rec-mode" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-21T16:55:55-0400</updated>
+    <published>2022-09-21T16:55:55-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>I Am so Tired</title>
+    <id>https://degruchy.org/#20220920-i-m-so-tired</id>
+    <link rel="alternate" href="https://degruchy.org/#20220920-i-m-so-tired" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-20T17:03:25-0400</updated>
+    <published>2022-09-20T17:03:25-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Mindustry</title>
+    <id>https://degruchy.org/#20220914-mindustry</id>
+    <link rel="alternate" href="https://degruchy.org/#20220914-mindustry" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-14T17:08:16-0400</updated>
+    <published>2022-09-14T17:08:16-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>My Favorite iOS 16 Feature</title>
+    <id>https://degruchy.org/#20220913-my-favorite-i-os-16-feature</id>
+    <link rel="alternate" href="https://degruchy.org/#20220913-my-favorite-i-os-16-feature" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-13T10:35:24-0400</updated>
+    <published>2022-09-13T10:35:24-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Reaping What You Sow</title>
+    <id>https://degruchy.org/#20220910-reaping-what-you-sow</id>
+    <link rel="alternate" href="https://degruchy.org/#20220910-reaping-what-you-sow" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-10T12:51:29-0400</updated>
+    <published>2022-09-10T12:51:29-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>She-Hulk</title>
-		<id>https://degruchy.org/#20220906-she-hulk</id>
-		<link rel="alternate" href="https://degruchy.org/#20220906-she-hulk" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-06T17:12:21-0400</updated>
-		<published>2022-09-06T17:12:21-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Temptation of Org</title>
-		<id>https://degruchy.org/#20220906-temptation-of-org</id>
-		<link rel="alternate" href="https://degruchy.org/#20220906-temptation-of-org" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-09-06T16:54:07-0400</updated>
-		<published>2022-09-06T16:54:07-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Making Image Thumbnails is Hard</title>
-		<id>https://degruchy.org/#20220830-making-image-thumbnails-is-hard</id>
-		<link rel="alternate" href="https://degruchy.org/#20220830-making-image-thumbnails-is-hard" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-30T12:00:54-0400</updated>
-		<published>2022-08-30T12:00:54-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>More Emacs Archeology</title>
+    <id>https://degruchy.org/#20220908-more-emacs-archeology</id>
+    <link rel="alternate" href="https://degruchy.org/#20220908-more-emacs-archeology" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-08T17:02:14-0400</updated>
+    <published>2022-09-08T17:02:14-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Emacs Newsticker</title>
-		<id>https://degruchy.org/#20220824-emacs-newsticker</id>
-		<link rel="alternate" href="https://degruchy.org/#20220824-emacs-newsticker" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-24T13:47:40-0400</updated>
-		<published>2022-08-24T13:47:40-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>R.I.P. Queen Elizabeth II</title>
+    <id>https://degruchy.org/#20220908-r-i-p-queen-elizabeth-ii</id>
+    <link rel="alternate" href="https://degruchy.org/#20220908-r-i-p-queen-elizabeth-ii" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-08T13:56:11-0400</updated>
+    <published>2022-09-08T13:56:11-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Toolkit-less Emacs</title>
-		<id>https://degruchy.org/#20220824-toolkit-less-emacs</id>
-		<link rel="alternate" href="https://degruchy.org/#20220824-toolkit-less-emacs" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-24T10:09:09-0400</updated>
-		<published>2022-08-24T10:09:09-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>She-Hulk</title>
+    <id>https://degruchy.org/#20220906-she-hulk</id>
+    <link rel="alternate" href="https://degruchy.org/#20220906-she-hulk" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-06T17:12:21-0400</updated>
+    <published>2022-09-06T17:12:21-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Temptation of Org</title>
+    <id>https://degruchy.org/#20220906-temptation-of-org</id>
+    <link rel="alternate" href="https://degruchy.org/#20220906-temptation-of-org" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-09-06T16:54:07-0400</updated>
+    <published>2022-09-06T16:54:07-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Making Image Thumbnails is Hard</title>
+    <id>https://degruchy.org/#20220830-making-image-thumbnails-is-hard</id>
+    <link rel="alternate" href="https://degruchy.org/#20220830-making-image-thumbnails-is-hard" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-30T12:00:54-0400</updated>
+    <published>2022-08-30T12:00:54-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Cosmic Rewind</title>
-		<id>https://degruchy.org/#20220823-cosmic-rewind</id>
-		<link rel="alternate" href="https://degruchy.org/#20220823-cosmic-rewind" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-23T18:39:39-0400</updated>
-		<published>2022-08-23T18:39:39-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Emacs Newsticker</title>
+    <id>https://degruchy.org/#20220824-emacs-newsticker</id>
+    <link rel="alternate" href="https://degruchy.org/#20220824-emacs-newsticker" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-24T13:47:40-0400</updated>
+    <published>2022-08-24T13:47:40-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Voted</title>
-		<id>https://degruchy.org/#20220823-voted</id>
-		<link rel="alternate" href="https://degruchy.org/#20220823-voted" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-23T18:24:26-0400</updated>
-		<published>2022-08-23T18:24:26-0400</published>
-		<content />
-	</entry>
-	<entry>
-		<title>Eshell Is My Jam</title>
-		<id>https://degruchy.org/#20220816-eshell-is-my-jam</id>
-		<link rel="alternate" href="https://degruchy.org/#20220816-eshell-is-my-jam" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-16T18:09:04-0400</updated>
-		<published>2022-08-16T18:09:04-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Toolkit-less Emacs</title>
+    <id>https://degruchy.org/#20220824-toolkit-less-emacs</id>
+    <link rel="alternate" href="https://degruchy.org/#20220824-toolkit-less-emacs" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-24T10:09:09-0400</updated>
+    <published>2022-08-24T10:09:09-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Tiling on Laptops</title>
-		<id>https://degruchy.org/#20220815-tiling-on-laptops</id>
-		<link rel="alternate" href="https://degruchy.org/#20220815-tiling-on-laptops" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-15T13:44:22-0400</updated>
-		<published>2022-08-15T13:44:22-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Cosmic Rewind</title>
+    <id>https://degruchy.org/#20220823-cosmic-rewind</id>
+    <link rel="alternate" href="https://degruchy.org/#20220823-cosmic-rewind" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-23T18:39:39-0400</updated>
+    <published>2022-08-23T18:39:39-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>It's Been a While</title>
-		<id>https://degruchy.org/#20220805-it-s-been-a-while</id>
-		<link rel="alternate" href="https://degruchy.org/#20220805-it-s-been-a-while" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-05T16:37:37-0400</updated>
-		<published>2022-08-05T16:37:37-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Voted</title>
+    <id>https://degruchy.org/#20220823-voted</id>
+    <link rel="alternate" href="https://degruchy.org/#20220823-voted" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-23T18:24:26-0400</updated>
+    <published>2022-08-23T18:24:26-0400</published>
+    <content />
+  </entry>
+  <entry>
+    <title>Eshell Is My Jam</title>
+    <id>https://degruchy.org/#20220816-eshell-is-my-jam</id>
+    <link rel="alternate" href="https://degruchy.org/#20220816-eshell-is-my-jam" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-16T18:09:04-0400</updated>
+    <published>2022-08-16T18:09:04-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Skeletons in My Closet</title>
-		<id>https://degruchy.org/#20220804-skeletons-in-my-closet</id>
-		<link rel="alternate" href="https://degruchy.org/#20220804-skeletons-in-my-closet" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-08-04T18:31:14-0400</updated>
-		<published>2022-08-04T18:31:14-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Tiling on Laptops</title>
+    <id>https://degruchy.org/#20220815-tiling-on-laptops</id>
+    <link rel="alternate" href="https://degruchy.org/#20220815-tiling-on-laptops" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-15T13:44:22-0400</updated>
+    <published>2022-08-15T13:44:22-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>I'm Watching You</title>
-		<id>https://degruchy.org/#20220804-i-m-watching-you</id>
-		<link rel="alternate" href="https://degruchy.org/#20220804-i-m-watching-you" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-08-04T14:34:36-0400</updated>
-		<published>2022-08-04T14:34:36-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>It's Been a While</title>
+    <id>https://degruchy.org/#20220805-it-s-been-a-while</id>
+    <link rel="alternate" href="https://degruchy.org/#20220805-it-s-been-a-while" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-05T16:37:37-0400</updated>
+    <published>2022-08-05T16:37:37-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Make My Day</title>
-		<id>https://degruchy.org/#20220802-make-my-day</id>
-		<link rel="alternate" href="https://degruchy.org/#20220802-make-my-day" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-08-02T11:02:08-0400</updated>
-		<published>2022-08-02T11:02:08-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Skeletons in My Closet</title>
+    <id>https://degruchy.org/#20220804-skeletons-in-my-closet</id>
+    <link rel="alternate" href="https://degruchy.org/#20220804-skeletons-in-my-closet" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-08-04T18:31:14-0400</updated>
+    <published>2022-08-04T18:31:14-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Stadia Down</title>
-		<id>https://degruchy.org/#20220729-stadia-down</id>
-		<link rel="alternate" href="https://degruchy.org/#20220729-stadia-down" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-07-29T13:19:38-0400</updated>
-		<published>2022-07-29T13:19:38-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>I'm Watching You</title>
+    <id>https://degruchy.org/#20220804-i-m-watching-you</id>
+    <link rel="alternate" href="https://degruchy.org/#20220804-i-m-watching-you" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-08-04T14:34:36-0400</updated>
+    <published>2022-08-04T14:34:36-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Picard</title>
-		<id>https://degruchy.org/#20220726-picard</id>
-		<link rel="alternate" href="https://degruchy.org/#20220726-picard" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-07-26T15:14:29-0400</updated>
-		<published>2022-07-26T15:14:29-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Make My Day</title>
+    <id>https://degruchy.org/#20220802-make-my-day</id>
+    <link rel="alternate" href="https://degruchy.org/#20220802-make-my-day" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-08-02T11:02:08-0400</updated>
+    <published>2022-08-02T11:02:08-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>300 is Not a Number I Like</title>
-		<id>https://degruchy.org/#20220721-300-is-not-a-number-i-like</id>
-		<link rel="alternate" href="https://degruchy.org/#20220721-300-is-not-a-number-i-like" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-07-21T12:37:49-0400</updated>
-		<published>2022-07-21T12:37:49-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Stadia Down</title>
+    <id>https://degruchy.org/#20220729-stadia-down</id>
+    <link rel="alternate" href="https://degruchy.org/#20220729-stadia-down" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-07-29T13:19:38-0400</updated>
+    <published>2022-07-29T13:19:38-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Windows 11 and Rejecting the "New"</title>
-		<id>https://degruchy.org/#20220720-windows-11-and-rejecting-the-new</id>
-		<link rel="alternate" href="https://degruchy.org/#20220720-windows-11-and-rejecting-the-new" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-07-20T22:25:54-0400</updated>
-		<published>2022-07-20T22:25:54-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Picard</title>
+    <id>https://degruchy.org/#20220726-picard</id>
+    <link rel="alternate" href="https://degruchy.org/#20220726-picard" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-07-26T15:14:29-0400</updated>
+    <published>2022-07-26T15:14:29-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Reject the Modern</title>
-		<id>https://degruchy.org/#20220715-reject-the-modern</id>
-		<link rel="alternate" href="https://degruchy.org/#20220715-reject-the-modern" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-07-15T15:17:17-0400</updated>
-		<published>2022-07-15T15:17:17-0400</published>
-		<content />
-	</entry>
+  <entry>
+    <title>300 is Not a Number I Like</title>
+    <id>https://degruchy.org/#20220721-300-is-not-a-number-i-like</id>
+    <link rel="alternate" href="https://degruchy.org/#20220721-300-is-not-a-number-i-like" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-07-21T12:37:49-0400</updated>
+    <published>2022-07-21T12:37:49-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Longevity of the Simple</title>
-		<id>https://degruchy.org/#20220709-longevity-of-the-simple</id>
-		<link rel="alternate" href="https://degruchy.org/#20220709-longevity-of-the-simple" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-07-09T11:54:22</updated>
-		<published>2022-07-09T11:54:22</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Windows 11 and Rejecting the "New"</title>
+    <id>https://degruchy.org/#20220720-windows-11-and-rejecting-the-new</id>
+    <link rel="alternate" href="https://degruchy.org/#20220720-windows-11-and-rejecting-the-new" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-07-20T22:25:54-0400</updated>
+    <published>2022-07-20T22:25:54-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>The End</title>
-		<id>https://degruchy.org/#20220707-theend</id>
-		<link rel="alternate" href="https://degruchy.org/#20220707-theend" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-07-07T17:19:21-04:00</updated>
-		<published>2022-07-07T17:19:21-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Reject the Modern</title>
+    <id>https://degruchy.org/#20220715-reject-the-modern</id>
+    <link rel="alternate" href="https://degruchy.org/#20220715-reject-the-modern" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-07-15T15:17:17-0400</updated>
+    <published>2022-07-15T15:17:17-0400</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Tomrrrowind</title>
-		<id>https://degruchy.org/#20220629-tomorrowind</id>
-		<link rel="alternate" href="https://degruchy.org/#20220629-tomorrowind" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-06-29T14:57</updated>
-		<published>2022-06-29T14:57</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Longevity of the Simple</title>
+    <id>https://degruchy.org/#20220709-longevity-of-the-simple</id>
+    <link rel="alternate" href="https://degruchy.org/#20220709-longevity-of-the-simple" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-07-09T11:54:22</updated>
+    <published>2022-07-09T11:54:22</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Moving</title>
-		<id>https://degruchy.org/#20220614-moving</id>
-		<link rel="alternate" href="https://degruchy.org/#20220614-moving" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-06-14T14:28</updated>
-		<published>2022-06-14T14:28</published>
-		<content />
-	</entry>
+  <entry>
+    <title>The End</title>
+    <id>https://degruchy.org/#20220707-theend</id>
+    <link rel="alternate" href="https://degruchy.org/#20220707-theend" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-07-07T17:19:21-04:00</updated>
+    <published>2022-07-07T17:19:21-04:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Ms. Marvel</title>
-		<id>https://degruchy.org/#20220609-msmarvel</id>
-		<link rel="alternate" href="https://degruchy.org/#20220609-msmarvel" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-06-09T12:54</updated>
-		<published>2022-06-09T12:54</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Tomrrrowind</title>
+    <id>https://degruchy.org/#20220629-tomorrowind</id>
+    <link rel="alternate" href="https://degruchy.org/#20220629-tomorrowind" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-06-29T14:57</updated>
+    <published>2022-06-29T14:57</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>I Thought I Wanted</title>
-		<id>https://degruchy.org#20220603-ithought</id>
-		<link rel="alternate" href="https://degruchy.org#20220603-ithought" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-06-03T19:14</updated>
-		<published>2022-06-03T19:14</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Moving</title>
+    <id>https://degruchy.org/#20220614-moving</id>
+    <link rel="alternate" href="https://degruchy.org/#20220614-moving" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-06-14T14:28</updated>
+    <published>2022-06-14T14:28</published>
+    <content />
+  </entry>
+
+  <entry>
+    <title>Ms. Marvel</title>
+    <id>https://degruchy.org/#20220609-msmarvel</id>
+    <link rel="alternate" href="https://degruchy.org/#20220609-msmarvel" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-06-09T12:54</updated>
+    <published>2022-06-09T12:54</published>
+    <content />
+  </entry>
+
+  <entry>
+    <title>I Thought I Wanted</title>
+    <id>https://degruchy.org#20220603-ithought</id>
+    <link rel="alternate" href="https://degruchy.org#20220603-ithought" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-06-03T19:14</updated>
+    <published>2022-06-03T19:14</published>
+    <content />
+  </entry>
 
 
-	<entry>
-		<title>Alaska</title>
-		<id>https://degruchy.org/#20220601-alaska</id>
-		<link rel="alternate" href="https://degruchy.org/#20220601-alaska" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-06-01T09:20</updated>
-		<published>2022-06-01T09:20</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Alaska</title>
+    <id>https://degruchy.org/#20220601-alaska</id>
+    <link rel="alternate" href="https://degruchy.org/#20220601-alaska" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-06-01T09:20</updated>
+    <published>2022-06-01T09:20</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Paid vs. Free</title>
-		<id>https://degruchy.org/#20220526-paidvsfree</id>
-		<link rel="alternate" href="https://degruchy.org/#20220526-paidvsfree" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-26T13:26</updated>
-		<published>2022-05-26T13:26</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Paid vs. Free</title>
+    <id>https://degruchy.org/#20220526-paidvsfree</id>
+    <link rel="alternate" href="https://degruchy.org/#20220526-paidvsfree" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-26T13:26</updated>
+    <published>2022-05-26T13:26</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Oops!</title>
-		<id>https://degruchy.org/#20220525-oops</id>
-		<link rel="alternate" href="https://degruchy.org/#20220525-oops" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-25T19:12</updated>
-		<published>2022-05-25T19:12</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Oops!</title>
+    <id>https://degruchy.org/#20220525-oops</id>
+    <link rel="alternate" href="https://degruchy.org/#20220525-oops" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-25T19:12</updated>
+    <published>2022-05-25T19:12</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>I Wish All Conflicts Could Be Solved Like This</title>
-		<id>https://degruchy.org/#20220525-conflict</id>
-		<link rel="alternate" href="https://degruchy.org/#20220525-conflict" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-25T17:24</updated>
-		<published>2022-05-25T17:24</published>
-		<content />
-	</entry>
+  <entry>
+    <title>I Wish All Conflicts Could Be Solved Like This</title>
+    <id>https://degruchy.org/#20220525-conflict</id>
+    <link rel="alternate" href="https://degruchy.org/#20220525-conflict" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-25T17:24</updated>
+    <published>2022-05-25T17:24</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>I'm Back</title>
-		<id>https://degruchy.org/#20220525-imback</id>
-		<link rel="alternate" href="https://degruchy.org/#20220525-imback" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-25T01:00</updated>
-		<published>2022-05-25T01:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>I'm Back</title>
+    <id>https://degruchy.org/#20220525-imback</id>
+    <link rel="alternate" href="https://degruchy.org/#20220525-imback" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-25T01:00</updated>
+    <published>2022-05-25T01:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Tipping Point</title>
-		<id>https://degruchy.org/#20220508-tipping</id>
-		<link rel="alternate" href="https://degruchy.org/#20220508-tipping" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-08T218:19</updated>
-		<published>2022-05-08T218:19</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Tipping Point</title>
+    <id>https://degruchy.org/#20220508-tipping</id>
+    <link rel="alternate" href="https://degruchy.org/#20220508-tipping" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-08T218:19</updated>
+    <published>2022-05-08T218:19</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>"Ogres Have Layers; Stylesheets Have `Layers`, Too"</title>
-		<id>https://degruchy.org/#20220506-layers</id>
-		<link rel="alternate" href="https://degruchy.org/#20220506-layers" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-06T18:37</updated>
-		<published>2022-05-06T16:52</published>
-		<content />
-	</entry>
+  <entry>
+    <title>"Ogres Have Layers; Stylesheets Have `Layers`, Too"</title>
+    <id>https://degruchy.org/#20220506-layers</id>
+    <link rel="alternate" href="https://degruchy.org/#20220506-layers" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-06T18:37</updated>
+    <published>2022-05-06T16:52</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Print &amp; Play for Travel</title>
-		<id>https://degruchy.org/#20220505-pnptrip</id>
-		<link rel="alternate" href="https://degruchy.org/#20220505-pnptrip" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-05T14:34</updated>
-		<published>2022-05-05T14:34</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Print &amp; Play for Travel</title>
+    <id>https://degruchy.org/#20220505-pnptrip</id>
+    <link rel="alternate" href="https://degruchy.org/#20220505-pnptrip" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-05T14:34</updated>
+    <published>2022-05-05T14:34</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>VSCode vs. Emacs</title>
-		<id>https://degruchy.org/#20220503-vscodeemacs</id>
-		<link rel="alternate" href="https://degruchy.org/#20220503-vscodeemacs" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-03T15:17</updated>
-		<published>2022-05-03T15:17</published>
-		<content />
-	</entry>
+  <entry>
+    <title>VSCode vs. Emacs</title>
+    <id>https://degruchy.org/#20220503-vscodeemacs</id>
+    <link rel="alternate" href="https://degruchy.org/#20220503-vscodeemacs" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-03T15:17</updated>
+    <published>2022-05-03T15:17</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Impostor Syndrome</title>
-		<id>https://degruchy.org/#20220503-impostor</id>
-		<link rel="alternate" href="https://degruchy.org/#20220503-impostor" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-03T08:53</updated>
-		<published>2022-05-03T08:53</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Impostor Syndrome</title>
+    <id>https://degruchy.org/#20220503-impostor</id>
+    <link rel="alternate" href="https://degruchy.org/#20220503-impostor" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-03T08:53</updated>
+    <published>2022-05-03T08:53</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Another Day, Another Positive Result</title>
-		<id>https://degruchy.org/#20220501-anotherday</id>
-		<link rel="alternate" href="https://degruchy.org/#20220501-anotherday" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-05-01T19:29</updated>
-		<published>2022-05-01T19:29</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Another Day, Another Positive Result</title>
+    <id>https://degruchy.org/#20220501-anotherday</id>
+    <link rel="alternate" href="https://degruchy.org/#20220501-anotherday" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-05-01T19:29</updated>
+    <published>2022-05-01T19:29</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Flavorless</title>
-		<id>https://degruchy.org/#20220429-flavorless</id>
-		<link rel="alternate" href="https://degruchy.org/#20220429-flavorless" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-04-29T20:57</updated>
-		<published>2022-04-29T20:57</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Flavorless</title>
+    <id>https://degruchy.org/#20220429-flavorless</id>
+    <link rel="alternate" href="https://degruchy.org/#20220429-flavorless" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-04-29T20:57</updated>
+    <published>2022-04-29T20:57</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Loss</title>
-		<id>https://degruchy.org/#20220429-loss</id>
-		<link rel="alternate" href="https://degruchy.org/#20220429-loss" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-04-29T08:01</updated>
-		<published>2022-04-29T08:01</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Loss</title>
+    <id>https://degruchy.org/#20220429-loss</id>
+    <link rel="alternate" href="https://degruchy.org/#20220429-loss" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-04-29T08:01</updated>
+    <published>2022-04-29T08:01</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Working From Home While Sick is Sometimes Nice</title>
-		<id>https://degruchy.org/#20220428-workingfromhome</id>
-		<link rel="alternate" href="https://degruchy.org/#20220428-workingfromhome" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-04-28T16:53</updated>
-		<published>2022-04-28T16:53</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Working From Home While Sick is Sometimes Nice</title>
+    <id>https://degruchy.org/#20220428-workingfromhome</id>
+    <link rel="alternate" href="https://degruchy.org/#20220428-workingfromhome" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-04-28T16:53</updated>
+    <published>2022-04-28T16:53</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Lots of Nothing</title>
-		<id>https://degruchy.org/#20220428-lotsofnothing</id>
-		<link rel="alternate" href="https://degruchy.org/#20220428-lotsofnothing" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-04-28T14:38</updated>
-		<published>2022-04-28T14:38</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Lots of Nothing</title>
+    <id>https://degruchy.org/#20220428-lotsofnothing</id>
+    <link rel="alternate" href="https://degruchy.org/#20220428-lotsofnothing" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-04-28T14:38</updated>
+    <published>2022-04-28T14:38</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Can't Sleep</title>
-		<id>https://degruchy.org/#20220428-cantsleep</id>
-		<link rel="alternate" href="https://degruchy.org/#20220428-cantsleep" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-04-28T01:28-04:00</updated>
-		<published>2022-04-28T01:28-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Can't Sleep</title>
+    <id>https://degruchy.org/#20220428-cantsleep</id>
+    <link rel="alternate" href="https://degruchy.org/#20220428-cantsleep" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-04-28T01:28-04:00</updated>
+    <published>2022-04-28T01:28-04:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>COVID-19</title>
-		<id>https://degruchy.org/#20220425-COVID</id>
-		<link rel="alternate" href="https://degruchy.org/#20220425-COVID" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-04-25T22:41-04:00</updated>
-		<published>2022-04-25T22:41-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>COVID-19</title>
+    <id>https://degruchy.org/#20220425-COVID</id>
+    <link rel="alternate" href="https://degruchy.org/#20220425-COVID" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-04-25T22:41-04:00</updated>
+    <published>2022-04-25T22:41-04:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Meow, Meow, Meow!</title>
-		<id>https://degruchy.org/#20220421-meowmeowmeow</id>
-		<link rel="alternate" src="/index.html#20220421-meowmeowmeow" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-04-21T11:26-04:00</updated>
-		<published>2022-04-21T11:26-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Meow, Meow, Meow!</title>
+    <id>https://degruchy.org/#20220421-meowmeowmeow</id>
+    <link rel="alternate" src="/index.html#20220421-meowmeowmeow" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-04-21T11:26-04:00</updated>
+    <published>2022-04-21T11:26-04:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Discomfort</title>
-		<id>https://degruchy.org/#20220420-discomfort</id>
-		<link rel="alternate" src="#20220420-discomfort" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-04-20T15:33-04:00</updated>
-		<published>2022-04-20T15:33-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Discomfort</title>
+    <id>https://degruchy.org/#20220420-discomfort</id>
+    <link rel="alternate" src="#20220420-discomfort" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-04-20T15:33-04:00</updated>
+    <published>2022-04-20T15:33-04:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Simple Notes</title>
-		<id>https://degruchy.org/#20220411-simplenotes</id>
-		<link rel="alternate" src="#20220411-simplenotes" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degruchy.org</email>
-		</author>
-		<updated>2022-04-11T14:15-04:00</updated>
-		<published>2022-04-11T14:15-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Simple Notes</title>
+    <id>https://degruchy.org/#20220411-simplenotes</id>
+    <link rel="alternate" src="#20220411-simplenotes" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2022-04-11T14:15-04:00</updated>
+    <published>2022-04-11T14:15-04:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>Better -Blocker- Forgotten</title>
-		<id>#20220410-idiotaral</id>
-		<link rel="alternate" src="#20220410-idiotaral" />
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-04-10T11:53-04:00</updated>
-		<published>2022-04-10T11:53-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>Better -Blocker- Forgotten</title>
+    <id>#20220410-idiotaral</id>
+    <link rel="alternate" src="#20220410-idiotaral" />
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-04-10T11:53-04:00</updated>
+    <published>2022-04-10T11:53-04:00</published>
+    <content />
+  </entry>
 
-	<entry>
-		<title>My Time to Fly</title>
-		<id>#20220409-mytimetofly</id>
-		<author>
-			<name>Nathan DeGruchy</name>
-			<email>nathan@degurchy.org</email>
-		</author>
-		<updated>2022-04-09T09:08-04:00</updated>
-		<published>2022-04-09T09:08-04:00</published>
-		<content />
-	</entry>
+  <entry>
+    <title>My Time to Fly</title>
+    <id>#20220409-mytimetofly</id>
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degurchy.org</email>
+    </author>
+    <updated>2022-04-09T09:08-04:00</updated>
+    <published>2022-04-09T09:08-04:00</published>
+    <content />
+  </entry>
 </feed>
 <!-- Local Variables: -->
 <!-- truncate-lines: t -->

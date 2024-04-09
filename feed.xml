@@ -14,19 +14,18 @@
   <rights>All rights reserved, (c) 2022 Nathan DeGruchy</rights>
   <id>https://degruchy.org/</id>
 
-<entry>
-  <title>Dealing with Software</title>
-  <id>https://degruchy.org/#20240409-dealing-with-software</id>
-  <link rel="alternate" href="https://degruchy.org/#20240409-dealing-with-software" />
-  <content/>
-  <author>
-    <name>Nathan DeGruchy</name>
-    <email>nathan@degruchy.org</email>
-  </author>
-  <updated>2024-04-09T14:38:07-0400</updated>
-  <published>2024-04-09T14:38:13-0400</published>
-</entry>
-
+  <entry>
+    <title>Dealing with Software</title>
+    <id>https://degruchy.org/#20240409-dealing-with-software</id>
+    <link rel="alternate" href="https://degruchy.org/#20240409-dealing-with-software" />
+    <content/>
+    <author>
+      <name>Nathan DeGruchy</name>
+      <email>nathan@degruchy.org</email>
+    </author>
+    <updated>2024-04-09T14:38:07-0400</updated>
+    <published>2024-04-09T14:38:13-0400</published>
+  </entry>
 
   <entry>
     <title>So, Where to Now?</title>

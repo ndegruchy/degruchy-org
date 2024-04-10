@@ -128,6 +128,19 @@ body>header h1 picture img
   margin-right: auto;
 }
 
+nav ol
+{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  & li
+  {
+    display: block;
+    list-style-type: none;
+  }
+}
+
 /**
  * Articles
  */

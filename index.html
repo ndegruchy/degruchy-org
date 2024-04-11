@@ -40,6 +40,55 @@
 	    </ol>
 	</nav>
 	<main id="content">
+	    <article id="20240411-local-development-with-fossil">
+		<header>
+		    <h2>
+			Local Development with Fossil
+			<a href="#20240411-local-development-with-fossil">&#x1F517;</a>
+		    </h2>
+		    <time datetime="2024-04-11T17:26:03-0400">17:26 on 2024-04-11</time>
+		</header>
+		<section>
+		    <p>I've been using <a
+		    href="https://fossil-scm.org">Fossil</a> for
+		    around a year or so. Normally, I do my work
+		    locally and check in/out items with Emacs'
+		    vc-fossil package. This works well, and I can even
+		    use Fossil's web-ui to explore content hosted
+		    locally, instead of having to browse through
+		    everything manually.</p>
+		    <figure>
+			<picture>
+			    <source srcset="/assets/images/posts/2024-04-11/local-fossil-webui.heic" type="image/heic">
+			    <source srcset="/assets/images/posts/2024-04-11/local-fossil-webui.avif" type="image/avif">
+			    <source srcset="/assets/images/posts/2024-04-11/local-fossil-webui.webp" type="image/webp">
+			    <img src="/assets/images/posts/2024-04-11/local-fossil-webui.jpg" alt="The locally hosted Fossil WebUI" height="319" width="720">
+			</picture>
+			<figcaption>The locally hosted Fossil WebUI</figcaption>
+		    </figure>
+		    <p>This lets me get the advantages of Fossil
+		    (web-based ticketing, wiki, timelines, etc)
+		    without needing a whole Github/Gitea
+		    infrastructure hosted locally. It <em>also</em>
+		    allows me to simply copy the <code>.fossil</code>
+		    up to my website and within seconds, have a fully
+		    functional <em>public</em> version that lets
+		    people access the code in a familiar and easy
+		    way. I can even setup auto-sync with Fossil to
+		    push local commits to the remote repositories,
+		    saving me another step.</p>
+		    <p>This low barrier to sharing code on an
+		    open-source platform that I control, but has
+		    minimal administrative overhead, is <em>really,
+		    really nice</em>. Having hosted gitea and other
+		    tools before, while they have simple-to-use shiny
+		    exteriors, the backends are no joke. SQL, caching,
+		    ports and configurations, not to mention
+		    authentication and addins make it all so much more
+		    difficult than it needs to be. Fossil is simple. I
+		    like simple.</p>
+		</section>
+	    </article>
 	    <article id="20240411-ellie-and-baliey">
 		<header>
 		    <h2>
@@ -55,7 +104,7 @@
 			    <source srcset="/assets/images/posts/2024-04-11/ellie-baliey.avif" type="image/avif">
 			    <source srcset="/assets/images/posts/2024-04-11/ellie-baliey.heic" type="image/heic">
 			    <source srcset="/assets/images/posts/2024-04-11/ellie-baliey.webp" type="image/webp">
-			    <img src="/assets/images/posts/2024-04-11/ellie-baliey.jpg" alt="" height="540" width="720">
+			    <img src="/assets/images/posts/2024-04-11/ellie-baliey.jpg" alt="" height="540" width="720" loading="lazy">
 			</picture>
 			<figcaption>Ellie and Baliey</figcaption>
 		    </figure>

@@ -11,24 +11,30 @@
  */
 function main()
 {
-	const eTimes = document.querySelectorAll("header > time");
+    const eTimes = document.querySelectorAll("header > time");
+    const oTheWatcher = lozad(); // Lazy loader.
 
-	// Start time ago
-	if
-	(
-		eTimes.length > 0
-		&&
-		typeof timeago !== undefined // Guard against failed loading of timeago
-	)
-	{
-		timeago.render(eTimes);
-	}
-	else
-	{
-		return false;
-	}
+    // Start time ago
+    if
+    (
+	eTimes.length > 0
+	&&
+	undefined !== typeof timeago // Guard against failed loading of timeago
+    )
+    {
+	timeago.render(eTimes);
+    }
+    else
+    {
+	return false;
+    }
 
-	return true;
+    if (undefined !== typeof lozad())
+    {
+	oTheWatcher.observe();
+    }
+
+    return true;
 }
 
 main(); // lets gooo!

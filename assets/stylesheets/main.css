@@ -235,9 +235,12 @@ figcaption
 
 blockquote
 {
+  border-bottom: 3px double #ccc;
+  border-top: 3px double #ccc;
+  font-style: italic;
   margin: 2rem 0 2rem 2rem;
   padding: 0.4rem 0.8rem;
-  font-style: italic;
+  text-align: center;
 }
 
 cite

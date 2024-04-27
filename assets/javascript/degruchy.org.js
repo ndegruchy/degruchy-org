@@ -17,7 +17,7 @@ function main()
     $("li a").simpleLightbox({
 	"captionSelector": 'figcaption',
 	"captionType": "text",
-	"fileExt": "png|jpg|jpeg|gif|avif|webp|heif"
+	"fileExt": "png|jpg|jpeg|gif|avif|webp|heif",
 	"nav": false,
 	"overlay": true,
 	"showCounter": false

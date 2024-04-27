@@ -11,30 +11,21 @@
  */
 function main()
 {
-    const eTimes = document.querySelectorAll("header > time");
     const oTheWatcher = lozad(); // Lazy loader.
+    oTheWatcher.observe();
 
-    // Start time ago
-    if
-    (
-	eTimes.length > 0
-	&&
-	undefined !== typeof timeago // Guard against failed loading of timeago
-    )
-    {
-	timeago.render(eTimes);
-    }
-    else
-    {
-	return false;
-    }
+    $("li a").simpleLightbox({
+	"captionSelector": 'figcaption',
+	"captionType": "text",
+	"fileExt": "png|jpg|jpeg|gif|avif|webp|heif"
+	"nav": false,
+	"overlay": true,
+	"showCounter": false
+    });
 
-    if (undefined !== typeof lozad())
-    {
-	oTheWatcher.observe();
-    }
-
-    return true;
+    $("header > time").timeago();
 }
 
-main(); // lets gooo!
+$(document).ready(function (){
+    main(); // lets gooo!
+});

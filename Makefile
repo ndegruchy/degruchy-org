@@ -1,7 +1,12 @@
-all: upload finish
+all: precompress upload finish
+
+precompress:
+	find . -type f -iname "*.html" -exec brotli --force --best --keep {} \;
+	find . -type f -iname "*.css"  -exec brotli --force --best --keep {} \;
+	find . -type f -iname "*.js"   -exec brotli --force --best --keep {} \;
 
 upload:
-	rsync --recursive --update --delete-excluded --delete-after --exclude=Makefile --exclude=.editorconfig --exclude=.fslckout --exclude=templates --exclude=README.md --progress . nathan@degruchy.org:/mnt/HC_Volume_100401178/degruchy-infra/degruchy-blog
+	rsync --recursive --update --delete-excluded --delete-after --exclude=Makefile --exclude=.editorconfig --exclude=.fslckout --exclude=templates --exclude=README.md --progress . nathan@degruchy.org:~/blog
 
 finish:
 	fossil git export

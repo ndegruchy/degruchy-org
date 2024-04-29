@@ -4,11 +4,6 @@
  * things like timeago
  */
 
-/**
- * Main function
- * @description The function that gets triggered once the page loads
- * @returns bool - True on success, false on failure
- */
 function main()
 {
     const oTheWatcher = lozad(); // Lazy loader.
@@ -26,6 +21,4 @@ function main()
     $("header > time").timeago();
 }
 
-$(document).ready(function (){
-    main(); // lets gooo!
-});
+$(document).ready(function (){main()});

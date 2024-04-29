@@ -17,7 +17,6 @@ precompress:
 	find . -type f -iname "*.txt"  -exec gzip   --force --keep --quiet {} \;
 	find . -type f -iname "*.xml"  -exec gzip   --force --keep --quiet {} \;
 
-
 upload:
 	rsync --recursive --update --delete-excluded --delete-after --exclude=Makefile --exclude=.editorconfig --exclude=.fslckout --exclude=templates --exclude=README.md --progress . nathan@degruchy.org:~/blog
 

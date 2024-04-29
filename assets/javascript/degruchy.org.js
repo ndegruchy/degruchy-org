@@ -6,8 +6,6 @@
 
 function main()
 {
-    $("picture, img, video").lazy();
-    
     $("li a").simpleLightbox({
 	"captionSelector": 'figcaption',
 	"captionType": "text",

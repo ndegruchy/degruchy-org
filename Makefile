@@ -25,9 +25,9 @@ mirror:
 	fossil git export
 
 clean:
-	find . type f -iname "*.zst" -delete
-	find . type f -iname "*.br"  -delete
-	find . type f -iname "*.gz"  -delete
+	find . -type f -iname "*.zst" -delete
+	find . -type f -iname "*.br"  -delete
+	find . -type f -iname "*.gz"  -delete
 
 notify:
 	notify-send --app-name="Emacs" --urgency=low --expire-time=3600 --icon=emacs --category=job --wait "Website Update Complete."

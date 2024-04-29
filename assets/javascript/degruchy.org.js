@@ -6,9 +6,8 @@
 
 function main()
 {
-    const oTheWatcher = lozad(); // Lazy loader.
-    oTheWatcher.observe();
-
+    $("picture, img, video").lazy();
+    
     $("li a").simpleLightbox({
 	"captionSelector": 'figcaption',
 	"captionType": "text",
@@ -17,7 +16,7 @@ function main()
 	"overlay": true,
 	"showCounter": false
     });
-
+    
     $("header > time").timeago();
 }
 

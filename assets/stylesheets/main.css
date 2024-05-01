@@ -134,12 +134,13 @@ nav ol
   padding: 0;
   display: flex;
   justify-content: space-around;
-  & li
-  {
-    display: block;
-    list-style-type: none;
-  }
 }
+nav ol li
+{
+  display: block;
+  list-style-type: none;
+}
+
 
 /**
  * Articles

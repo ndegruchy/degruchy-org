@@ -48,6 +48,77 @@
 	    </ol>
 	</nav>
 	<main id="content">
+	    <article id="20240502-thoughts-on-moving-to-an-ssg">
+		<header>
+		    <h2>
+			Thoughts on Moving to an <abbr title="Static Site Generator">SSG</abbr>
+			<a href="#20240502-thoughts-on-moving-to-an-ssg">&#x1F517;</a>
+		    </h2>
+		    <time datetime="2024-05-02T08:25:35-0400">08:25 on 2024-05-02</time>
+		</header>
+		<section>
+		    <p>I like editing this single file blog. It's
+		    easy, and I have all the parts to make it work for
+		    me. I'm comfortable. I'm also aware that
+		    uncompressed, just the markup alone is
+		    300+kb. That doesn't include images, styles and
+		    javascript. I've done my best to ensure that they
+		    are lazily loaded and not something that has to be
+		    pulled down with every request, I also know that I
+		    could do better, and have a better organizational
+		    structure.</p>
+		    <p>I have some reservations, though. This blog is
+		    <em>just</em> HTML. That means I can put whatever
+		    I want or need into the post, and know that
+		    nothing will be filted out by Markdown or the
+		    like. That is really handy for things like image
+		    galleries and video blocks. It also means that I
+		    have to manage those myself in <em>every
+		    post</em>. So if I change the template, guess who
+		    gets to work through 2 years of posts? Yeah.</p>
+		    <h3>Pros of Simple HTML File</h3>
+		    <ul>
+			<li>I can put whatever content I want into the
+			body and know it's not going to get
+			filtered</li>
+			<li>Templating is easy with
+			<code>yasnippets</code> or similar</li>
+			<li>No difference in posting versus templating</li>
+		    </ul>
+		    <h3>Cons of Simple HTML File</h3>
+		    <ul>
+			<li>Templating is great <em>at first</em>,
+			    then as changes get made, it's a slog</li>
+			<li>Organization can be frustrating and
+			requires a lot of scaffolding either in Emacs
+			    or Bash</li>
+			<li>No separation between templates and
+			content, making the whole thing messy to
+			manage</li>
+		    </ul>
+		    <h3>Pros of a SSG (Zola, Hugo, etc)</h3>
+		    <ul>
+			<li>Easy pipeline to organize and optimize content</li>
+			<li>Templates can be changed once and will
+			    propigate everywhere</li>
+			<li>Simple content processing, making content
+			easier to write</li>
+		    </ul>
+		    <h3>Cons of SSGs</h3>
+		    <ul>
+			<li>Templating can be a pain to setup</li>
+			<li>Reliance on another tool for building</li>
+			<li>Initial setup is daunting to get right</li>
+			<li>I feel like I need to have an IDE to
+			manage all the files that are included</li>
+		    </ul>
+		    <p>I am working with Hugo right now, and while
+		    I've made progress, it's frustrating and difficult
+		    to manage all the different fragments of files,
+		    and creating shortcodes and blablablabla. I just
+		    don't know if it's worth it.</p>
+		</section>
+	    </article>
 	    <article id="20240429-mufasa-the-lion-king--aka-lion-king-2">
 		<header>
 		    <h2>

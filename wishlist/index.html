@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Nothing interesting">
+	<meta name="generator" content="Nathan DeGruchy">
+
+	<base href="https://degruchy.org/">
+
+	<link rel="stylesheet" href="/assets/stylesheets/main.css">	
+	<link rel="stylesheet" href="/assets/stylesheets/simple-lightbox.min.css">
+	<link rel="icon" href="/assets/images/2020-minimal-avatar-50.avif" type="image/png">
+	<link rel="author" href="mailto:nathan@degruchy.org">
+	<link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+	<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Atom Feed">
+
+	<!-- Preload some resources -->
+	<link rel="preload" href="/assets/javascript/lazyload.min.js" as="script">
+	<link rel="preload" href="/assets/javascript/jquery.min.js" as="script">
+
+	<title>Verily - Wishlist</title>
+
+	<style>
+	 #content table
+	 {
+	   border-collapse: collapse;
+	   border-radius: 10px;
+	   border-spacing: 0;
+	   border: 2px solid black;
+	   margin: 2rem 0;
+	   width: 100%;
+	 }
+	 #content table caption { caption-side: bottom; margin: 1.5rem 0 }
+	 
+	 #content table td
+	 {
+	   border: 2px solid #686868;
+	   padding: 0.5rem 0.25rem;
+	 }
+
+	 #content table th,
+	 #content table tfoot tr
+	 {
+	   background-color: #686868;
+	   border: 2px solid #686868;
+	   color: #FFF;
+	   padding: 0.5rem 0.25rem;
+	 }
+	 
+	 #content table tbody td:nth-child(3) { font-weight: bold; text-align: right }
+	 #content table tbody td:nth-child(4) { text-align:  center }
+
+	 #content table thead th:nth-child(1),
+	 #content table tbody td:nth-child(1)
+	 {
+	   padding: 0;
+	   width: 128px;
+	 }
+
+	 #content table thead th:nth-child(3),
+	 #content table tbody td:nth-child(3),
+	 #content table tfoot td:nth-child(3),
+	 #content table thead th:nth-child(4),
+	 #content table tbody td:nth-child(4),
+	 #content table tfoot td:nth-child(4)
+	 {
+	   width: fit-content;
+	 }
+
+	 #content table tfoot tr td
+	 {
+	   font-weight: bold;
+	   padding: 0.5rem 0.25rem;
+	   text-align: center
+	 }
+
+	 #content table tfoot a,
+	 #content table tfoot a:hover,
+	 #content table tfoot a:active,
+	 #content table tfoot a:visited
+	 {
+	   color: white;
+	 }
+	</style>
+    </head>
+
+    <body>
+	<a href="#content" class="hide-for-screen-readers">Skip to content</a>
+	<header>
+	    <h1>
+		<a href="/">
+		    <picture>
+			<source srcset="/assets/images/2020-minimal-avatar-50.jxl"  type="image/jxl">
+			<source srcset="/assets/images/2020-minimal-avatar-50.avif" type="image/avif">
+			<source srcset="/assets/images/2020-minimal-avatar-50.heic" type="image/heic">
+			<source srcset="/assets/images/2020-minimal-avatar-50.webp" type="image/webp">
+			<img src="/assets/images/2020-minimal-avatar-50.jpg" alt="Me!" height="50" width="50">
+		    </picture>
+		    Verily
+		</a>
+	    </h1>
+	</header>
+	<nav>
+	    <ol>
+		<li><a href="https://code.degruchy.org">My Code</a></li>
+		<li><a href="/wishlist/">Wishlist</a></li>
+		<li><a href="https://code.degruchy.org/gist/tree?type=tree&ci=tip">Gists</a></li>
+		<li><a href="mailto:nathan@degruchy.org">Email Me</a></li>
+	    </ol>
+	</nav>
+	<main id="content">
+	    <table>
+		<caption>Prices shown are accurate as of insertion.</caption>
+		<thead>
+		    <tr>
+			<!-- I don't like this, not one bit -->
+			<th colspan="2">Description</th>
+			<th>Price</th>
+			<th>Store</th>
+		    </tr>
+		</thead>
+		<tbody>
+		    <tr>
+			<td>
+			    <figure>
+				<picture>
+				    <source srcset="/assets/images/wishlist/daybreak.jxl"  type="image/jxl">
+				    <source srcset="/assets/images/wishlist/daybreak.heic" type="image/heic">
+				    <source srcset="/assets/images/wishlist/daybreak.avif" type="image/avif">
+				    <source srcset="/assets/images/wishlist/daybreak.webp" type="image/webp">
+				    <img src="/assets/images/wishlist/daybreak.jpg" alt="Daybreak board game" height="128" width="128" loading="lazy">
+				</picture>
+			    </figure>
+			</td>
+			<td>
+			    Daybreak Boardgame
+			</td>
+			<td>
+			    $50
+			</td>
+			<td>
+			    <a href="https://www.cmyk.games/products/daybreak">CMYK Games</a>
+			</td>
+		    </tr>
+		    <tr>
+			<td>
+			    <figure>
+				<picture>
+				    <source srcset="/assets/images/wishlist/sodastream.jxl"  type="image/jxl">
+				    <source srcset="/assets/images/wishlist/sodastream.heic" type="image/heic">
+				    <source srcset="/assets/images/wishlist/sodastream.avif" type="image/avif">
+				    <source srcset="/assets/images/wishlist/sodastream.webp" type="image/webp">
+				    <img src="/assets/images/wishlist/sodastream.jpg" alt="Soda Stream" height="128" width="128" loading="lazy">
+				</picture>
+			    </figure>
+			</td>
+			<td>
+			    SodaStream Terra
+			</td>
+			<td>
+			    $100
+			</td>
+			<td>
+			    <a href="https://www.amazon.com/dp/B0B2X132WK?th=1">Amazon</a>
+			</td>
+		    </tr>
+		    <tr>
+			<td>
+			    <figure>
+				<picture>
+				    <source srcset="/assets/images/wishlist/steamdeck-upgrade.jxl"  type="image/jxl">
+				    <source srcset="/assets/images/wishlist/steamdeck-upgrade.heic" type="image/heic">
+				    <source srcset="/assets/images/wishlist/steamdeck-upgrade.avif" type="image/avif">
+				    <source srcset="/assets/images/wishlist/steamdeck-upgrade.webp" type="image/webp">
+				    <img src="/assets/images/wishlist/steamdeck-upgrade.jpg" alt="Steam Deck Upgrade Kit" height="128" width="128" loading="lazy">
+				</picture>
+			    </figure>
+			</td>
+			<td>
+			    Steam Deck Upgrade Kit
+			</td>
+			<td>
+			    $185
+			</td>
+			<td>
+			    <a href="https://www.ifixit.com/products/micron-2400-nvme-pcie-gen4-2230-ssd?variant=40034191868007">iFixit</a>
+			</td>
+		    </tr>
+		    <tr>
+			<td>
+			    <figure>
+				<picture>
+				    <source srcset="/assets/images/wishlist/tsa-purge-stick.jxl"  type="image/jxl">
+				    <source srcset="/assets/images/wishlist/tsa-purge-stick.heic" type="image/heic">
+				    <source srcset="/assets/images/wishlist/tsa-purge-stick.avif" type="image/avif">
+				    <source srcset="/assets/images/wishlist/tsa-purge-stick.webp" type="image/webp">
+				    <img src="/assets/images/wishlist/tsa-purge-stick.jpg" alt="A picture of the TSA 'Purge' stick" height="128" width="128" loading="lazy">
+				</picture>
+			    </figure>
+			</td>
+			<td>
+			    TSA Purge Stick
+			</td>
+			<td>
+			    $100
+			</td>
+			<td>
+			    <a href="https://www.disneystore.com/tva-badge-and-time-stick-set-loki-461065039099.html">ShopDisney</a>
+			</td>
+		    </tr>
+		    <tr>
+			<td>
+			    <figure>
+				<picture>
+				    <source srcset="/assets/images/wishlist/startups.jxl"  type="image/jxl">
+				    <source srcset="/assets/images/wishlist/startups.heic" type="image/heic">
+				    <source srcset="/assets/images/wishlist/startups.avif" type="image/avif">
+				    <source srcset="/assets/images/wishlist/startups.webp" type="image/webp">
+				    <img src="/assets/images/wishlist/startups.jpg" alt="A picture of the box for the 'Startups' board game" height="128" width="128" loading="lazy">
+				</picture>
+			    </figure>
+			</td>
+			<td>
+			    Startups
+			</td>
+			<td>
+			    $23
+			</td>
+			<td>
+			    <a href="https://oinkgames.com/en/games/analog/startups/">Oink Games</a>
+			</td>
+		    </tr>
+		    <tr>
+			<td>
+			    <figure>
+				<picture>
+				    <source srcset="/assets/images/wishlist/bohnanza.jxl"  type="image/jxl">
+				    <source srcset="/assets/images/wishlist/bohnanza.heic" type="image/heic">
+				    <source srcset="/assets/images/wishlist/bohnanza.avif" type="image/avif">
+				    <source srcset="/assets/images/wishlist/bohnanza.webp" type="image/webp">
+				    <img src="/assets/images/wishlist/bohnanza.jpg" alt="A picture of the box art for 'Bohnanza'" height="128" width="128" loading="lazy">
+				</picture>
+			    </figure>
+			</td>
+			<td>
+			    Bohnanza
+			</td>
+			<td>
+			    $20
+			</td>
+			<td>
+			    <a href="https://www.amazon.com/dp/B00008URUS?psc=1">Amazon</a>
+			</td>
+		    </tr>
+		</tbody>
+		<tfoot>
+		    <tr>
+			<td colspan="4"><a href="https://www.spi-inc.org/donations/">&hellip; or how about a donation to a good cause?</a></td>
+		    </tr>
+		</tfoot>
+	    </table>
+	</main>
+	<footer>
+	    <p>&copy; 2022 Nathan DeGruchy - All Rights Reserved</p>
+	</footer>
+	<script src="/assets/javascript/lazyload.min.js"></script>
+	<script src="/assets/javascript/jquery.min.js"></script>
+	<script src="/assets/javascript/jquery.timeago.min.js" defer></script>
+	<script src="/assets/javascript/simple-lightbox.jquery.min.js" defer></script>
+	<script src="/assets/javascript/degruchy.org.js"></script>
+    </body>
+</html>
+
+<!-- Local Variables: -->
+<!-- truncate-lines: t -->
+<!-- End: -->

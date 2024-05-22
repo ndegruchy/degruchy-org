@@ -23,8 +23,10 @@ precompress:
 minify:
 	cp index.html index.original.html
 	cp error.html error.original.html
+	cp wishlist/index.html wishlist/index.original.html
 	htmlmin --remove-comments --remove-empty-space index.original.html index.html
 	htmlmin --remove-comments --remove-empty-space index.original.html error.html
+	htmlmin --remove-comments --remove-empty-space wishlist/index.original.html wishlist/index.html
 
 upload:
 	rsync --recursive --update --delete-excluded --delete-after --exclude=Makefile --exclude=.editorconfig --exclude=.fslckout --exclude=templates --exclude=README.md --exclude="*.original.*" --progress . nathan@degruchy.org:~/blog
@@ -35,6 +37,7 @@ mirror:
 clean:
 	mv index.original.html index.html
 	mv error.original.html error.html
+	mv wishlist/index.original.html wishlist/index.html
 	find . -type f -iname "*.zst"        -delete
 	find . -type f -iname "*.br"         -delete
 	find . -type f -iname "*.gz"         -delete

@@ -292,6 +292,31 @@
 	<script src="/assets/javascript/jquery.timeago.min.js" defer></script>
 	<script src="/assets/javascript/simple-lightbox.jquery.min.js" defer></script>
 	<script src="/assets/javascript/degruchy.org.js"></script>
+	<script>
+	 $(document).ready(function(){
+	     // Randomize table footer donation link
+	     const nonprofits = [
+		 "https://www.spi-inc.org/donations/",                         // Debian, et al
+		 "https://kde.org/community/donations/",                       // KDE
+		 "https://ffmpeg.org/donations.html",                          // ffmpeg
+		 "https://github.com/sponsors/ImageMagick?o=esb",              // Imagemagick
+		 "https://foundation.mozilla.org/en/?form=moco-donate-footer", // Firefox
+		 "https://fund.blender.org/",                                  // Blender
+		 "https://krita.org/en/donations/",                            // Krita
+		 "https://obsproject.com/contribute",                          // Obs
+		 "https://github.com/sponsors/Tienisto",                       // LocalSend
+		 "https://www.videolan.org/contribute.html",                   // VLC
+		 "https://www.libreoffice.org/donate/",                        // LibreOffice
+		 "https://my.fsf.org/donate"                                   // GNU/FSF
+	     ];
+
+	     selectedURL = nonprofits[
+		 Math.floor(Math.random() * nonprofits.length)
+	     ];
+
+	     $("tfoot a").attr("href", selectedURL);
+	 });
+	</script>
     </body>
 </html>
 

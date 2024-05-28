@@ -10,7 +10,6 @@
 	<base href="https://degruchy.org/">
 
 	<link rel="stylesheet" href="/assets/stylesheets/main.css">	
-	<link rel="stylesheet" href="/assets/stylesheets/simple-lightbox.min.css">
 	<link rel="icon" href="/assets/images/2020-minimal-avatar-50.avif" type="image/png">
 	<link rel="author" href="mailto:nathan@degruchy.org">
 	<link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
@@ -40,8 +39,8 @@
 	   padding: 0.5rem 0.25rem;
 	 }
 
-	 #content table th,
-	 #content table tfoot tr
+	 #content table thead th,
+	 #content table tfoot td
 	 {
 	   background-color: #686868;
 	   border: 2px solid #686868;
@@ -49,7 +48,7 @@
 	   padding: 0.5rem 0.25rem;
 	 }
 	 
-	 #content table tbody td:nth-child(3) { font-weight: bold; text-align: right }
+	 #content table tbody td:nth-child(3) { font-weight: bold; text-align: center }
 	 #content table tbody td:nth-child(4) { text-align:  center }
 
 	 #content table thead th:nth-child(1),
@@ -61,10 +60,8 @@
 
 	 #content table thead th:nth-child(3),
 	 #content table tbody td:nth-child(3),
-	 #content table tfoot td:nth-child(3),
 	 #content table thead th:nth-child(4),
-	 #content table tbody td:nth-child(4),
-	 #content table tfoot td:nth-child(4)
+	 #content table tbody td:nth-child(4)
 	 {
 	   width: fit-content;
 	 }
@@ -276,10 +273,32 @@
 			    <a href="https://www.epilogue.co/product/gb-operator">Epilogue</a>
 			</td>
 		    </tr>
+		    <tr>
+			<td>
+			    <figure>
+				<picture>
+				    <source srcset="/assets/images/wishlist/steam-gift-card.jxl"  type="image/jxl">
+				    <source srcset="/assets/images/wishlist/steam-gift-card.heic" type="image/heic">
+				    <source srcset="/assets/images/wishlist/steam-gift-card.avif" type="image/avif">
+				    <source srcset="/assets/images/wishlist/steam-gift-card.webp" type="image/webp">
+				    <img src="/assets/images/wishlist/steam-gift-card.jpg" alt="A picture of a Steam Gift card" height="128" width="128" loading="lazy">
+				</picture>
+			    </figure>
+			</td>
+			<td>
+			    Steam Gift Card
+			</td>
+			<td>
+			    Any
+			</td>
+			<td>
+			    <a href="https://store.steampowered.com/digitalgiftcards/">Steam</a>
+			</td>
+		    </tr>
 		</tbody>
 		<tfoot>
 		    <tr>
-			<td colspan="4"><a href="https://www.spi-inc.org/donations/">&hellip; or how about a donation to a good cause?</a></td>
+			<td colspan="4"><a href="https://www.spi-inc.org/donations/">&hellip; or how about a donation to a good cause? (this is a random link)</a></td>
 		    </tr>
 		</tfoot>
 	    </table>
@@ -289,34 +308,7 @@
 	</footer>
 	<script src="/assets/javascript/lazyload.min.js"></script>
 	<script src="/assets/javascript/jquery.min.js"></script>
-	<script src="/assets/javascript/jquery.timeago.min.js" defer></script>
-	<script src="/assets/javascript/simple-lightbox.jquery.min.js" defer></script>
-	<script src="/assets/javascript/degruchy.org.js"></script>
-	<script>
-	 $(document).ready(function(){
-	     // Randomize table footer donation link
-	     const nonprofits = [
-		 "https://www.spi-inc.org/donations/",                         // Debian, et al
-		 "https://kde.org/community/donations/",                       // KDE
-		 "https://ffmpeg.org/donations.html",                          // ffmpeg
-		 "https://github.com/sponsors/ImageMagick?o=esb",              // Imagemagick
-		 "https://foundation.mozilla.org/en/?form=moco-donate-footer", // Firefox
-		 "https://fund.blender.org/",                                  // Blender
-		 "https://krita.org/en/donations/",                            // Krita
-		 "https://obsproject.com/contribute",                          // Obs
-		 "https://github.com/sponsors/Tienisto",                       // LocalSend
-		 "https://www.videolan.org/contribute.html",                   // VLC
-		 "https://www.libreoffice.org/donate/",                        // LibreOffice
-		 "https://my.fsf.org/donate"                                   // GNU/FSF
-	     ];
-
-	     selectedURL = nonprofits[
-		 Math.floor(Math.random() * nonprofits.length)
-	     ];
-
-	     $("tfoot a").attr("href", selectedURL);
-	 });
-	</script>
+	<script src="/assets/javascript/degruchy.org.min.js"></script>
     </body>
 </html>
 
